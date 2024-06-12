@@ -1,0 +1,110 @@
+Response 1: very many
+Response 2: very many
+Response 3: very many
+Response 4: very many
+Response 5: very many
+Response 6: few
+Response 7: very many
+Response 8: (almost) all
+Response 9: very many
+Response 10: very many
+Response 11: very many
+Response 12: very many
+Response 13: very many
+Response 14: (almost) all
+Response 15: very many
+Response 16: very many
+Response 17: (limited evidence) almost all
+Response 18: very many
+Response 19: very many
+Response 20: very many
+Response 21: very many
+Response 22: about half of them
+Response 23: almost all
+Response 24: (most likely) all
+Response 25: very many
+Response 26: very many
+Response 27: very many
+Response 28: very many
+Response 29: very many
+Response 30: very many
+Response 31: very many
+Response 32: (Almost) all
+Response 33: very many
+Response 34: very many
+Response 35: Very many
+Response 36: almost all
+Response 37: very many
+Response 38: very many
+Response 39: (almost) all
+Response 40: very many
+Response 41: about half of them
+Response 42: very many
+Response 43: almost all
+Response 44: very many
+Response 45: very many
+Response 46: few
+Response 47: (almost) all
+Response 48: very many
+Response 49: very many
+Response 50: very many
+Response 51: Very many
+Response 52: very many
+Response 53: very many
+Response 54: almost all
+Response 55: very many
+Response 56: Very many.
+Response 57: very many
+Response 58: very many
+Response 59: very many
+Response 60: very many
+Response 61: almost all
+Response 62: very many
+Response 63: very many
+Response 64: very many
+Response 65: very many
+Response 66: very many
+Response 67: very many
+Response 68: very many
+Response 69: very many
+Response 70: very many
+Response 71: very many
+Response 72: very many
+Response 73: very many
+Response 74: very many
+Response 75: very many
+Response 76: very many
+Response 77: almost all
+Response 78: very many
+Response 79: very many
+Response 80: very many
+Response 81: (Almost) all
+Response 82: almost all
+Response 83: few
+Response 84: very many
+Response 85: very many
+Response 86: few
+Response 87: many
+Response 88: very many
+Response 89: very many
+Response 90: Very many
+Response 91: very many
+Response 92: about half of them
+Response 93: very many
+Response 94: (almost) all
+Response 95: very many
+Response 96: Very many
+Response 97: very many
+Response 98: very many
+Response 99: very many
+Response 100: very many
+Response 101: very many
+Response 102: about half of them
+Response 103: (almost) all
+Response 104: (almost) all
+Response 105: very many
+Response 106: very many
+Response 107: very many
+Response 108: very many
+Response 109: very many
+Response 110: Many

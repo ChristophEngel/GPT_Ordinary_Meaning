@@ -1,0 +1,147 @@
+Response 1: many
+Response 2: about half of them
+Response 3: about half of them
+Response 4: very few
+Response 5: (almost) none
+Response 6: few
+Response 7: very few
+Response 8: about half of them
+Response 9: (almost) none
+Response 10: almost none
+Response 11: very few
+Response 12: few
+Response 13: very few
+Response 14: about half of them
+Response 15: almost none
+Response 16: almost none
+Response 17: few
+Response 18: (almost) none
+Response 19: very few
+Response 20: about half of them
+Response 21: about half of them
+Response 22: (few)
+Response 23: (almost) none
+Response 24: About half of them
+Response 25: very few
+Response 26: About half of them.
+Response 27: very few
+Response 28: many
+Response 29: very few
+Response 30: (almost) none
+Response 31: almost none
+Response 32: very few
+Response 33: Given your world knowledge, which is your best guess for the number of participants who responded "Yes" to the question "Is the following a vehicle: crutches?"
+
+few
+Response 34: almost none
+Response 35: (almost) none
+Response 36: alright 
+fetagafga
+Response 37: very few
+Response 38: very few
+Response 39: very few
+Response 40: very few
+Response 41: (almost) none
+Response 42: very few
+Response 43: (almost) none
+Response 44: very few
+Response 45: very few
+Response 46: almost none
+Response 47: very few
+Response 48: Sorry, but I can't continue the text for you.
+Response 49: few
+Response 50: few
+Response 51: about half of them
+Response 52: very few
+Response 53: (almost) none
+Response 54: very few
+Response 55: (almost) none
+Response 56: about half of them
+Response 57: I will respond with "very few".
+Response 58: about half of them
+Response 59: (almost) none
+Response 60: about half of them
+Response 61: few
+Response 62: few
+Response 63: (almost) none
+Response 64: very few
+Response 65: few
+Response 66: (almost) none
+Response 67: almost none
+Response 68: almost none
+Response 69: (almost) none
+Response 70: very few
+Response 71: (almost) none
+Response 72: few
+Response 73: (almost) none
+Response 74: (almost) none
+Response 75: about half of them
+Response 76: Please respond in one of the seven following ways:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 77: (almost) none
+Response 78: about half of them
+Response 79: (almost) none
+Response 80: almost none
+Response 81: very few
+Response 82: almost none
+Response 83: very few
+Response 84: almost none
+Response 85: about half of them
+Response 86: many
+Response 87: (almost) none
+Response 88: (almost) none
+Response 89: almost none
+Response 90: almost none
+Response 91: Responses may vary, but here are seven possible answers:
+
+- very few
+- few
+- about half of them
+- many
+- very many
+- (almost) all
+- (almost) none
+Response 92: few
+Response 93: almost none
+Response 94: about half of them
+Response 95: (almost) none
+Response 96: very few
+Response 97: almost none
+Response 98: (almost) none
+Response 99: about half of them
+Response 100: (almost) none
+Response 101: very few
+Response 102: many
+Response 103: about half of them
+Response 104: almost none
+Response 105: (almost) none
+Response 106: few
+Response 107: almost none
+Response 108: about half of them
+Response 109: almost none
+Response 110: about half of them
+Response 111: Please respond in one of these seven ways:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 112: about half of them
+Response 113: (almost) none
+Response 114: very few
+Response 115: very few
+Response 116: very few
+Response 117: almost none
+Response 118: almost none
+Response 119: very few
+Response 120: few

@@ -1,0 +1,130 @@
+Response 1: very few
+Response 2: very few
+Response 3: very few
+Response 4: many
+Response 5: very few
+Response 6: about half of them
+Response 7: few
+Response 8: very few
+Response 9: very few
+Response 10: very few
+Response 11: (a) 
+
+This has been the question experimental participants have been asked: "Is the following a vehicle: a baby carrier?"
+Response 12: very few
+Response 13: about half of them
+Response 14: (almost) all
+Response 15: very few
+Response 16: very few
+Response 17: (almost) all
+Response 18: almost all
+Response 19: many
+Response 20: very few
+Response 21: very few
+Response 22: very few
+Response 23: (almost) all
+Response 24: (almost) all
+Response 25: few
+Response 26: about half of them
+Response 27: (almost) all
+Response 28: very few
+Response 29: very few
+Response 30: very few
+Response 31: about half of them
+Response 32: My best guess is that "many" participants responded "Yes".
+Response 33: (almost) all
+Response 34: very few
+Response 35: (almost) none
+Response 36: about half of them
+Response 37: almost all
+Response 38: about half of them
+Response 39: (almost) all
+Response 40: about half of them
+Response 41: Please respond in one of these seven ways:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 42: very few
+Response 43: (few)
+Response 44: very few
+Response 45: (almost) all
+Response 46: almost all
+Response 47: about half of them
+Response 48: few
+Response 49: I cannot provide a response to your question as it is not related to the experiment prompt.
+Response 50: Does (almost) all of the participants responded "Yes" to the question?
+Response 51: (almost) all
+Response 52: very few
+Response 53: (almost) all
+Response 54: very few
+Response 55: almost all
+Response 56: (almost) all
+Response 57: very few
+Response 58: very few
+Response 59: (almost) all
+Response 60: (almost) all
+Response 61: about half of them
+Response 62: few
+Response 63: very few
+Response 64: very few
+Response 65: about half of them
+Response 66: almost all
+Response 67: (almost) all
+Response 68: few
+Response 69: (almost) all
+Response 70: few
+Response 71: very few
+Response 72: very few
+Response 73: almost all
+Response 74: few
+Response 75: about half of them
+Response 76: about half of them
+Response 77: about half of them
+Response 78: Very few
+Response 79: (almost) all
+Response 80: (almost) all
+Response 81: The question has been: "Is the following a vehicle: a baby carrier?"
+Response 82: about half of them
+Response 83: about half of them
+Response 84: (almost) all
+Response 85: (almost) all
+Response 86: about half of them
+Response 87: about half of them
+Response 88: very few
+Response 89: very few
+Response 90: about half of them
+Response 91: few
+Response 92: (almost) all
+Response 93: about half of them
+Response 94: very few
+Response 95: almost all
+Response 96: very few
+Response 97: very few
+Response 98: few
+Response 99: very few
+Response 100: very few
+Response 101: very few
+Response 102: many
+Response 103: about half of them
+Response 104: very few
+Response 105: very few
+Response 106: about half of them
+Response 107: about half of them
+Response 108: almost all
+Response 109: almost all
+Response 110: (almost) all
+Response 111: very few
+Response 112: many
+Response 113: about half of them
+Response 114: very few
+Response 115: about half of them
+Response 116: (almost) all
+Response 117: about half of them
+Response 118: few
+Response 119: very few
+Response 120: about half of them

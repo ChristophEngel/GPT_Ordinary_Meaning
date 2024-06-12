@@ -1,0 +1,110 @@
+Response 1: very few
+Response 2: very many
+Response 3: few
+Response 4: few
+Response 5: few
+Response 6: about half of them
+Response 7: about half of them
+Response 8: (almost) all
+Response 9: very few
+Response 10: (almost) all
+Response 11: almost all
+Response 12: very many
+Response 13: few
+Response 14: almost all
+Response 15: (almost) all
+Response 16: about half of them
+Response 17: very few
+Response 18: (almost) all
+Response 19: almost all
+Response 20: about half of them
+Response 21: almost all
+Response 22: very few
+Response 23: very many
+Response 24: very few
+Response 25: (almost) all
+Response 26: about half of them
+Response 27: About half of them
+Response 28: very few
+Response 29: very few
+Response 30: about half of them
+Response 31: few
+Response 32: very many
+Response 33: almost all
+Response 34: about half of them
+Response 35: about half of them
+Response 36: very many
+Response 37: few
+Response 38: about half of them
+Response 39: very many
+Response 40: very few
+Response 41: almost all
+Response 42: very many
+Response 43: about half of them
+Response 44: very many
+Response 45: (almost) all
+Response 46: (almost) all
+Response 47: very many
+Response 48: few
+Response 49: Very many
+Response 50: very many
+Response 51: very few
+Response 52: very few
+Response 53: I am sorry, but as a language model AI, I do not have access to real-time data or the ability to make assumptions about historical events. Therefore, I am unable to provide an accurate estimation of how many participants would have responded "Yes" to the question.
+Response 54: few
+Response 55: very many
+Response 56: about half of them
+Response 57: very few
+Response 58: very few
+Response 59: very few
+Response 60: almost all
+Response 61: very many
+Response 62: very few
+Response 63: very many
+Response 64: very many
+Response 65: very few
+Response 66: very few
+Response 67: (almost) all
+Response 68: very few
+Response 69: about half of them
+Response 70: (almost) all
+Response 71: about half of them
+Response 72: very many
+Response 73: few
+Response 74: few
+Response 75: very few
+Response 76: about half of them
+Response 77: about half of them
+Response 78: very few
+Response 79: Very few
+Response 80: very many
+Response 81: (most likely) all
+Response 82: very many
+Response 83: very many
+Response 84: very many
+Response 85: very many
+Response 86: very many
+Response 87: very many
+Response 88: very many
+Response 89: very many
+Response 90: very many
+Response 91: very few
+Response 92: (almost) all
+Response 93: very many
+Response 94: few
+Response 95: (almost) all
+Response 96: very many
+Response 97: (almost) all
+Response 98: very few
+Response 99: about half of them
+Response 100: about half of them
+Response 101: about half of them
+Response 102: about half of them
+Response 103: very few
+Response 104: very few
+Response 105: (Almost) all
+Response 106: (almost) all
+Response 107: very few
+Response 108: (almost) all
+Response 109: (almost) all
+Response 110: (few)

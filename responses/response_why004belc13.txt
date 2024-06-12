@@ -1,0 +1,130 @@
+Response 1: (almost) all
+Response 2: (almost) all
+Response 3: almost all
+Response 4: about half of them
+Response 5: almost all
+Response 6: almost all
+Response 7: about half of them
+Response 8: Almost all
+Response 9: very few
+Response 10: (almost) all
+Response 11: (almost) all
+Response 12: almost all
+Response 13: (almost) all
+Response 14: (Almost) all
+Response 15: very few
+Response 16: (almost) all
+Response 17: about half of them
+Response 18: (almost) all
+Response 19: very few
+Response 20: almost all
+Response 21: almost all
+Response 22: very few
+Response 23: very few
+Response 24: almost all
+Response 25: very few
+Response 26: (almost) all
+Response 27: about half of them
+Response 28: very few
+Response 29: (almost) all
+Response 30: almost all
+Response 31: almost all
+Response 32: Very few
+Response 33: about half of them
+Response 34: few
+Response 35: many
+Response 36: very few
+Response 37: almost all
+Response 38: very few
+Response 39: (almost) all
+Response 40: (almost) all
+Response 41: very few
+Response 42: very few
+Response 43: very few
+Response 44: very few
+Response 45: very few
+Response 46: very few
+Response 47: (almost) all
+Response 48: almost all
+Response 49: few
+Response 50: few
+Response 51: few
+Response 52: very few
+Response 53: (almost) all
+Response 54: (almost) all
+Response 55: (almost) all
+Response 56: (almost) all
+Response 57: about half of them
+Response 58: about half of them
+Response 59: about half of them
+Response 60: (almost) all
+Response 61: very few
+Response 62: Few
+Response 63: Many
+Response 64: about half of them
+Response 65: (almost) all
+Response 66: Very few
+Response 67: very few
+Response 68: almost all
+Response 69: few
+Response 70: very few
+Response 71: almost all
+Response 72: about half of them
+Response 73: few
+Response 74: few
+Response 75: (almost) all
+Response 76: about half of them
+Response 77: almost all
+Response 78: almost all
+Response 79: I am sorry, but I cannot provide the answer you are looking for.
+Response 80: almost all
+Response 81: very few
+Response 82: almost all
+Response 83: almost all
+Response 84: few
+Response 85: very few
+Response 86: (almost) all
+Response 87: (few)
+Response 88: almost all
+Response 89: (almost) all
+Response 90: almost all
+Response 91: very few
+Response 92: about half of them
+Response 93: few
+Response 94: very few
+Response 95: I am sorry, but I cannot provide a valid response to your question as it goes against OpenAI's use case policy.
+Response 96: almost all
+Response 97: very few
+Response 98: about half of them
+Response 99: few
+Response 100: few
+Response 101: few
+Response 102: I'm sorry, but I cannot answer that question as it goes beyond the capabilities of a language model.
+Response 103: almost all
+Response 104: very few
+Response 105: very few
+Response 106: Very few
+Response 107: few
+Response 108: almost all
+Response 109: very few
+Response 110: (almost) all
+Response 111: Very few
+Response 112: (almost) all
+Response 113: very few
+Response 114: very few
+Response 115: (almost) all
+Response 116: (almost) all
+Response 117: I apologize for the confusion, but I am unable to answer your question as it is not related to the task of providing a belief about the number of participants who responded "Yes" to the given question.
+Response 118: about half of them
+Response 119: almost all
+Response 120: very few
+Response 121: (almost) all
+Response 122: very few
+Response 123: many
+Response 124: (almost) all
+Response 125: approximately half of them
+Response 126: (almost) all
+Response 127: (almost) all
+Response 128: almost all
+Response 129: about half of them
+Response 130: very few

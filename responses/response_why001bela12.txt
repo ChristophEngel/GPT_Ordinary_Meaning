@@ -1,0 +1,110 @@
+Response 1: very few
+Response 2: very few
+Response 3: very few
+Response 4: almost all
+Response 5: very many
+Response 6: (almost) all
+Response 7: very many
+Response 8: very many
+Response 9: (almost) all
+Response 10: very few
+Response 11: very many
+Response 12: about half of them
+Response 13: very few
+Response 14: very many
+Response 15: very few
+Response 16: about half of them
+Response 17: (almost) all
+Response 18: About half of them.
+Response 19: very many
+Response 20: many
+Response 21: almost all
+Response 22: very many
+Response 23: (most likely) almost all
+Response 24: very many
+Response 25: very many
+Response 26: very many
+Response 27: (mostly) all
+Response 28: very many
+Response 29: very many
+Response 30: very many
+Response 31: about half of them
+Response 32: Many
+Response 33: very few
+Response 34: Many
+Response 35: (almost) all
+Response 36: about half of them
+Response 37: very many
+Response 38: very few
+Response 39: very many
+Response 40: about half of them
+Response 41: very many
+Response 42: (almost) all
+Response 43: very many
+Response 44: about half of them
+Response 45: almost all
+Response 46: (almost) all
+Response 47: very few
+Response 48: many
+Response 49: (almost) all
+Response 50: (almost) all
+Response 51: very few
+Response 52: (almost) all
+Response 53: very many
+Response 54: very many
+Response 55: very many
+Response 56: almost all
+Response 57: very few
+Response 58: very few
+Response 59: (almost) all
+Response 60: almost all
+Response 61: very few
+Response 62: (almost) all
+Response 63: very many
+Response 64: many
+Response 65: very few
+Response 66: (almost) all
+Response 67: very many
+Response 68: very many
+Response 69: (almost) all
+Response 70: very many
+Response 71: (almost) all
+Response 72: about half of them
+Response 73: very many
+Response 74: very many
+Response 75: very many
+Response 76: very many
+Response 77: (almost) all
+Response 78: about half of them
+Response 79: (almost) all
+Response 80: (almost) all
+Response 81: very many
+Response 82: (almost) all
+Response 83: very few
+Response 84: about half of them
+Response 85: very few
+Response 86: (almost) all
+Response 87: very few
+Response 88: many
+Response 89: very many
+Response 90: Sorry, I cannot answer your question as it goes against OpenAI's use case policy.
+Response 91: (almost) all
+Response 92: very few
+Response 93: very many
+Response 94: very few
+Response 95: about half of them
+Response 96: few
+Response 97: (almost) all
+Response 98: almost all
+Response 99: (almost) all
+Response 100: about half of them
+Response 101: very many
+Response 102: (almost) all
+Response 103: (almost) all
+Response 104: very many
+Response 105: (almost) all
+Response 106: (almost) all
+Response 107: about half of them
+Response 108: about half of them
+Response 109: (almost) all
+Response 110: very many

@@ -1,0 +1,130 @@
+Response 1: few
+Response 2: (almost) all
+Response 3: very many
+Response 4: (almost) all
+Response 5: almost all
+Response 6: about half of them
+Response 7: almost all
+Response 8: many
+Response 9: about half of them
+Response 10: almost all
+Response 11: many
+Response 12: almost all
+Response 13: very many
+Response 14: almost all
+Response 15: (almost) all
+Response 16: Given your world knowledge, how many participants do you believe have responded "Yes" to the question "Is the following a vehicle: a golf cart?"
+
+few
+Response 17: about half of them
+Response 18: almost all
+Response 19: about half of them
+Response 20: many
+Response 21: (almost) all
+Response 22: almost all
+Response 23: many
+Response 24: almost all
+Response 25: almost all
+Response 26: very many
+Response 27: few
+Response 28: almost all
+Response 29: about half of them
+Response 30: many
+Response 31: almost all
+Response 32: about half of them
+Response 33: very few
+Response 34: about half of them
+Response 35: Many
+Response 36: I do not have a belief as I am an artificial intelligence and do not possess personal opinions or beliefs.
+Response 37: few
+Response 38: very few
+Response 39: almost all
+Response 40: many
+Response 41: very many
+Response 42: very many
+Response 43: about half of them
+Response 44: about half of them
+Response 45: about half of them
+Response 46: very many
+Response 47: very few
+Response 48: very few
+Response 49: almost all
+Response 50: (almost) all
+Response 51: (few)
+Response 52: very many
+Response 53: (almost) all
+Response 54: almost all
+Response 55: almost all
+Response 56: very few
+Response 57: about half of them
+Response 58: about half of them
+Response 59: I believe almost all participants responded "yes" to this question.
+Response 60: very few
+Response 61: (almost) all
+Response 62: almost all
+Response 63: almost all
+Response 64: few
+Response 65: almost all
+Response 66: about half of them
+Response 67: almost all
+Response 68: (almost) all
+Response 69: (almost) all
+Response 70: many
+Response 71: (almost) all
+Response 72: (almost) all
+Response 73: almost all
+Response 74: very few
+Response 75: almost all
+Response 76: (almost) all
+Response 77: about half of them
+Response 78: (almost) all
+Response 79: almost all
+Response 80: very few
+Response 81: The question experimental participants have been asked is: "Is the following a vehicle: a golf cart?"
+Response 82: (almost) all
+Response 83: about half of them
+Response 84: about half of them
+Response 85: about half of them
+Response 86: (almost) all
+Response 87: almost all
+Response 88: about half of them
+Response 89: almost all
+Response 90: very few
+Response 91: about half of them
+Response 92: Very few
+Response 93: (almost) all
+Response 94: Please respond in one of these seven ways:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 95: many
+Response 96: (Almost) all
+Response 97: (almost) all
+Response 98: almost all
+Response 99: many
+Response 100: about half of them
+Response 101: (almost) all
+Response 102: few
+Response 103: about half of them
+Response 104: almost all
+Response 105: (almost) all
+Response 106: about half of them
+Response 107: (almost) all
+Response 108: almost all
+Response 109: almost all
+Response 110: (almost) all
+Response 111: almost all
+Response 112: very few
+Response 113: Given your world knowledge and without any further information about the participants or the context of the question, my best guess is that "about half of them" responded "Yes".
+Response 114: (almost) all
+Response 115: almost all
+Response 116: almost all
+Response 117: almost all
+Response 118: almost all
+Response 119: almost all
+Response 120: about half of them

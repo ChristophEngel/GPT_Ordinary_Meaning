@@ -1,0 +1,128 @@
+Response 1: very few
+Response 2: (virtually) none
+Response 3: (almost) none
+Response 4: (almost) none
+Response 5: very few
+Response 6: (almost) none
+Response 7: about half of them
+Response 8: very few
+Response 9: few
+Response 10: very few
+Response 11: almost none
+Response 12: Many
+Response 13: very few
+Response 14: few
+Response 15: (almost) none
+Response 16: very few
+Response 17: almost none
+Response 18: almost all
+Response 19: almost none
+Response 20: I am sorry, I cannot respond to that question as it goes against OpenAI's use case policy.
+Response 21: about half of them
+Response 22: (almost) none
+Response 23: (almost) none
+Response 24: (almost) none
+Response 25: about half of them
+Response 26: (almost) none
+Response 27: (almost) none
+Response 28: I am sorry, but as an AI language model, I don't have access to the specific question that experimental participants were asked. Therefore, I cannot provide an accurate response.
+Response 29: few
+Response 30: very few
+Response 31: many
+Response 32: very few
+Response 33: almost none
+Response 34: very few
+Response 35: very few
+Response 36: very few
+Response 37: (almost) none
+Response 38: few
+Response 39: almost none
+Response 40: very few
+Response 41: very few
+Response 42: (almost) none
+Response 43: almost none
+Response 44: few
+Response 45: almost none
+Response 46: (almost) none
+Response 47: few
+Response 48: very few
+Response 49: (almost) none
+Response 50: very few
+Response 51: almost none
+Response 52: many
+Response 53: (almost) none
+Response 54: about half of them
+Response 55: almost none
+Response 56: almost none
+Response 57: I cannot answer that question as it goes against my programming principles. I apologize for any inconvenience.
+Response 58: I am sorry, I cannot answer this question as I am an AI language model and do not have real-time access to information or knowledge about current experiments.
+Response 59: (few)
+Response 60: very few
+Response 61: very few
+Response 62: few
+Response 63: (almost) none
+Response 64: very few
+Response 65: very few
+Response 66: (almost) none
+Response 67: (almost) none
+Response 68: (almost) none
+Response 69: almost none
+Response 70: almost none
+Response 71: few
+Response 72: (almost) none
+Response 73: almost none
+Response 74: very few
+Response 75: I will provide my best guess without reasoning: very few
+Response 76: (almost) none
+Response 77: (almost) none
+Response 78: few
+Response 79: about half of them
+Response 80: very few
+Response 81: very few
+Response 82: very few
+Response 83: Very few
+Response 84: very few
+Response 85: very few
+Response 86: (almost) none
+Response 87: many
+Response 88: about half of them
+Response 89: about half of them
+Response 90: (A) few
+Response 91: (almost) none
+Response 92: almost none
+Response 93: (almost) none
+Response 94: The response options would be as follows:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 95: many
+Response 96: (almost) none
+Response 97: (almost) none
+Response 98: very few
+Response 99: about half of them
+Response 100: very few
+Response 101: very few
+Response 102: very few
+Response 103: (few)
+Response 104: (almost) none
+Response 105: few
+Response 106: (almost) none
+Response 107: about half of them
+Response 108: about half of them
+Response 109: very few
+Response 110: very few
+Response 111: very few
+Response 112: I am sorry, but I cannot provide a response as the actual question that participants were asked is not provided in the text. Please provide the question so that I can give you an appropriate response.
+Response 113: about half of them
+Response 114: very few
+Response 115: very few
+Response 116: (almost) none
+Response 117: (few)
+Response 118: (almost) none
+Response 119: almost all
+Response 120: about half of them

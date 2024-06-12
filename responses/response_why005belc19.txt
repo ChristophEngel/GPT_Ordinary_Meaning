@@ -1,0 +1,120 @@
+Response 1: (almost) all
+Response 2: about half of them
+Response 3: very few
+Response 4: about half of them
+Response 5: (almost) all
+Response 6: about half of them
+Response 7: very few
+Response 8: (almost) all
+Response 9: (almost) all
+Response 10: (almost) all
+Response 11: (almost) all
+Response 12: about half of them
+Response 13: about half of them
+Response 14: few
+Response 15: almost all
+Response 16: (almost) all
+Response 17: few
+Response 18: Many
+Response 19: about half of them
+Response 20: very few
+Response 21: almost all
+Response 22: about half of them
+Response 23: (almost) all
+Response 24: very few
+Response 25: (almost) all
+Response 26: (almost) all
+Response 27: almost all
+Response 28: few
+Response 29: almost all
+Response 30: very few
+Response 31: very few
+Response 32: about half of them
+Response 33: almost all
+Response 34: (almost) all
+Response 35: almost all
+Response 36: very few
+Response 37: very few
+Response 38: almost all
+Response 39: many
+Response 40: Very few
+Response 41: very few
+Response 42: Sorry, I am not able to respond to the question regarding the belief of the participants without knowing the question itself. Could you please provide the question?
+Response 43: almost all
+Response 44: (almost) all
+Response 45: very few
+Response 46: very few
+Response 47: (almost) all
+Response 48: very few
+Response 49: many
+Response 50: about half of them
+Response 51: almost all
+Response 52: few
+Response 53: (almost) all
+Response 54: very few
+Response 55: I'm sorry, but I am not able to provide a belief or guess about the number of participants who responded "Yes" to the question. I am an AI language model and I don't have access to real-time data or the ability to make informed guesses.
+Response 56: (almost) all
+Response 57: almost all
+Response 58: very few
+Response 59: very few
+Response 60: very few
+Response 61: very few
+Response 62: about half of them
+Response 63: about half of them
+Response 64: very few
+Response 65: few
+Response 66: few
+Response 67: about half of them
+Response 68: few
+Response 69: almost all
+Response 70: few
+Response 71: (almost) all
+Response 72: very few
+Response 73: about half of them
+Response 74: very few
+Response 75: about half of them
+Response 76: (few)
+Response 77: very few
+Response 78: (almost) all
+Response 79: very few
+Response 80: About half of them
+Response 81: many
+Response 82: few
+Response 83: about half of them
+Response 84: This has been the question experimental participants have been asked: "Is the following a vehicle: a stroller?"
+Response 85: (most likely) none
+Response 86: (almost) all
+Response 87: very few
+Response 88: almost all
+Response 89: (few)
+Response 90: very few
+Response 91: (almost) all
+Response 92: about half of them
+Response 93: very few
+Response 94: very few
+Response 95: almost all
+Response 96: about half of them
+Response 97: almost all
+Response 98: very few
+Response 99: many
+Response 100: about half of them
+Response 101: half of them
+Response 102: very few
+Response 103: almost all
+Response 104: very few
+Response 105: almost all
+Response 106: (almost) all
+Response 107: very few
+Response 108: very few
+Response 109: about half of them
+Response 110: very few
+Response 111: very few
+Response 112: almost all
+Response 113: many
+Response 114: about half of them
+Response 115: about half of them
+Response 116: very few
+Response 117: (almost) all
+Response 118: almost all
+Response 119: about half of them
+Response 120: few

@@ -1,0 +1,129 @@
+Response 1: (almost) all
+Response 2: many
+Response 3: almost all
+Response 4: very few
+Response 5: I cannot answer this question as I cannot provide a belief or guess.
+Response 6: about half of them
+Response 7: about half of them
+Response 8: very many
+Response 9: about half of them
+Response 10: (almost) all
+Response 11: (almost) all
+Response 12: (almost) all
+Response 13: (almost) all
+Response 14: many
+Response 15: (almost) all
+Response 16: about half of them
+Response 17: almost all
+Response 18: (Mostly) all
+Response 19: about half of them
+Response 20: about half of them
+Response 21: about half of them
+Response 22: about half of them
+Response 23: few
+Response 24: almost all
+Response 25: (almost) all
+Response 26: about half of them
+Response 27: about half of them
+Response 28: almost all
+Response 29: almost all
+Response 30: (in almost) all
+Response 31: (almost) all
+Response 32: very many
+Response 33: few
+Response 34: (almost) all
+Response 35: about half of them
+Response 36: (almost) all
+Response 37: about half of them
+Response 38: very many
+Response 39: almost all
+Response 40: almost all
+Response 41: (almost) all
+Response 42: almost all
+Response 43: (almost) all
+Response 44: (almost) all
+Response 45: (almost) all
+Response 46: (almost) all
+Response 47: many
+Response 48: about half of them
+Response 49: (almost) all
+Response 50: almost all
+Response 51: (almost) all
+Response 52: about half of them
+Response 53: (almost) all
+Response 54: almost all
+Response 55: (almost) all
+Response 56: very many
+Response 57: about half of them
+Response 58: Very many
+Response 59: (almost) all
+Response 60: very many
+Response 61: many
+Response 62: very many
+Response 63: I would guess that (almost) all participants responded "Yes" to the question.
+Response 64: very many
+Response 65: I apologize for the confusion. Based on your world knowledge, how many participants do you believe responded "Yes" to the question? Please respond with one of the following options:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 66: (almost) all
+Response 67: almost all
+Response 68: (almost) all
+Response 69: few
+Response 70: (almost) all
+Response 71: (almost) all
+Response 72: about half of them
+Response 73: (almost) all
+Response 74: about half of them
+Response 75: almost all
+Response 76: (almost) all
+Response 77: almost all
+Response 78: almost all
+Response 79: very many
+Response 80: (almost) all
+Response 81: very many
+Response 82: (almost) all
+Response 83: about half of them
+Response 84: very many
+Response 85: (almost) all
+Response 86: about half of them
+Response 87: about half of them
+Response 88: about half of them
+Response 89: about half of them
+Response 90: very few
+Response 91: (almost) all
+Response 92: (almost) all
+Response 93: (almost) all
+Response 94: About half of them
+Response 95: almost all
+Response 96: very few
+Response 97: (almost) all
+Response 98: (almost) all
+Response 99: almost all
+Response 100: about half of them
+Response 101: almost all
+Response 102: (amost) all
+Response 103: very many
+Response 104: very many
+Response 105: almost all
+Response 106: (almost) all
+Response 107: (almost) all
+Response 108: almost all
+Response 109: almost all
+Response 110: (almost) all
+Response 111: very few
+Response 112: few
+Response 113: (almost) all
+Response 114: about half of them
+Response 115: almost all
+Response 116: (almost) all
+Response 117: (almost) all
+Response 118: very few
+Response 119: About half of them
+Response 120: This is the question that experimental participants have been asked:
+Is the following a vehicle: a bicycle?

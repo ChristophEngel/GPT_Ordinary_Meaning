@@ -1,0 +1,138 @@
+Response 1: very few
+Response 2: almost all
+Response 3: (almost) all
+Response 4: very few
+Response 5: (almost) all
+Response 6: about half of them
+Response 7: very few
+Response 8: about half of them
+Response 9: (almost) all
+Response 10: about half of them
+Response 11: very few
+Response 12: very few
+Response 13: very few
+Response 14: about half of them
+Response 15: very few
+Response 16: many
+Response 17: many
+Response 18: about half of them
+Response 19: very few
+Response 20: few
+Response 21: many
+Response 22: very few
+Response 23: Please do not repeat the task or the question that human participants have been asked. Just respond with one of the following options:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 24: many
+Response 25: almost all
+Response 26: many
+Response 27: (almost) all
+Response 28: very few
+Response 29: many
+Response 30: very few
+Response 31: few
+Response 32: (a) very few
+Response 33: (almost) all
+Response 34: many
+Response 35: very few
+Response 36: very few
+Response 37: (Due to the nature of the prompt, the assistant will not ask any additional questions or provide any explanations. It will now provide an answer based on its programming and available knowledge.)
+
+few
+Response 38: (almost) all
+Response 39: many
+Response 40: very few
+Response 41: almost all
+Response 42: very few
+Response 43: (almost) all
+Response 44: many
+Response 45: about half of them
+Response 46: almost all
+Response 47: very few
+Response 48: almost all
+Response 49: very few
+Response 50: almost all
+Response 51: very few
+Response 52: very few
+Response 53: very few
+Response 54: many
+Response 55: very few
+Response 56: (almost) all
+Response 57: about half of them
+Response 58: very many
+Response 59: very few
+Response 60: very many
+Response 61: about half of them
+Response 62: about half of them
+Response 63: very few
+Response 64: almost all
+Response 65: Many
+Response 66: about half of them
+Response 67: about half of them
+Response 68: very few
+Response 69: very few
+Response 70: About half of them
+Response 71: very few
+Response 72: very few
+Response 73: (almost) all
+Response 74: very few
+Response 75: many
+Response 76: few
+Response 77: (almost) all
+Response 78: few
+Response 79: (almost) all
+Response 80: about half of them
+Response 81: very few
+Response 82: about half of them
+Response 83: very few
+Response 84: very few
+Response 85: very few
+Response 86: very few
+Response 87: (few)
+Response 88: very few
+Response 89: very few
+Response 90: few
+Response 91: (almost) all
+Response 92: very few
+Response 93: very few
+Response 94: very many
+Response 95: (almost) all
+Response 96: (almost) all
+Response 97: few
+Response 98: very few
+Response 99: very many
+Response 100: very few
+Response 101: very few
+Response 102: very few
+Response 103: almost all
+Response 104: few
+Response 105: (almost) all
+Response 106: very few
+Response 107: very few
+Response 108: very few
+Response 109: about half of them
+Response 110: very few
+Response 111: very few
+Response 112: few
+Response 113: almost all
+Response 114: very few
+Response 115: very few
+Response 116: few
+Response 117: (few)
+Response 118: My apologies for the confusion. Based on your world knowledge, what is your best guess for how many participants responded "Yes" to the question asked in the experiment? Please respond using one of the following options:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 119: very few
+Response 120: (almost) all

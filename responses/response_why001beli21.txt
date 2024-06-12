@@ -1,0 +1,110 @@
+Response 1: almost all
+Response 2: very few
+Response 3: very few
+Response 4: very few
+Response 5: very few
+Response 6: very few
+Response 7: very many
+Response 8: Very few
+Response 9: very few
+Response 10: very few
+Response 11: few
+Response 12: very few
+Response 13: (almost) all
+Response 14: many
+Response 15: Very few
+Response 16: very few
+Response 17: very few
+Response 18: very few
+Response 19: very few
+Response 20: about half of them
+Response 21: very few
+Response 22: very few
+Response 23: very few
+Response 24: almost all
+Response 25: very few
+Response 26: very few
+Response 27: very few
+Response 28: very few
+Response 29: very few
+Response 30: about half of them
+Response 31: Very few
+Response 32: very few
+Response 33: about half of them
+Response 34: very few
+Response 35: very few
+Response 36: very few
+Response 37: (almost) none
+Response 38: very few
+Response 39: very few
+Response 40: (almost) all
+Response 41: almost all
+Response 42: (almost) all
+Response 43: almost all
+Response 44: (almost) all
+Response 45: very few
+Response 46: Very few
+Response 47: very few
+Response 48: very few
+Response 49: very few
+Response 50: very many
+Response 51: very few
+Response 52: very many
+Response 53: almost all
+Response 54: (almost) all
+Response 55: very few
+Response 56: (almost) all
+Response 57: very few
+Response 58: very few
+Response 59: few
+Response 60: very few
+Response 61: I am sorry, but I am not able to answer this question as it requires making a guess about the beliefs of hypothetical participants in the thought experiment.
+Response 62: very few
+Response 63: very few
+Response 64: Very few
+Response 65: (almost) all
+Response 66: almost all
+Response 67: I believe that very few participants would have responded "Yes" in the second step.
+Response 68: very few
+Response 69: very few
+Response 70: very few
+Response 71: few
+Response 72: many
+Response 73: very few
+Response 74: (almost) all
+Response 75: very few
+Response 76: almost all
+Response 77: very few
+Response 78: very few
+Response 79: few
+Response 80: very few
+Response 81: very few
+Response 82: very few
+Response 83: few
+Response 84: very few
+Response 85: very few
+Response 86: very few
+Response 87: very many
+Response 88: very few
+Response 89: very few
+Response 90: (almost) all
+Response 91: very few
+Response 92: Very few
+Response 93: very few
+Response 94: very few
+Response 95: very few
+Response 96: very few
+Response 97: very few
+Response 98: very few
+Response 99: very few
+Response 100: very few
+Response 101: almost all
+Response 102: (almost) all
+Response 103: few
+Response 104: very few
+Response 105: few
+Response 106: very few
+Response 107: almost all
+Response 108: very few
+Response 109: very few
+Response 110: almost all

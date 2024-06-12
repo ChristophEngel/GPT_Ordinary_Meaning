@@ -1,0 +1,110 @@
+Response 1: (almost) all
+Response 2: very many
+Response 3: about half of them
+Response 4: many
+Response 5: few
+Response 6: very many
+Response 7: very many
+Response 8: almost all
+Response 9: almost all
+Response 10: very many
+Response 11: very many
+Response 12: almost all
+Response 13: very many
+Response 14: (almost) all
+Response 15: (almost) all
+Response 16: very few
+Response 17: very many
+Response 18: about half of them
+Response 19: very many
+Response 20: about half of them
+Response 21: very many
+Response 22: (almost) all
+Response 23: very many
+Response 24: very many
+Response 25: very many
+Response 26: (almost) all
+Response 27: (almost) all
+Response 28: Many
+Response 29: very many
+Response 30: very many
+Response 31: very many
+Response 32: very many
+Response 33: about half of them
+Response 34: very many
+Response 35: very many
+Response 36: very many
+Response 37: (almost) all
+Response 38: very many
+Response 39: (almost) all
+Response 40: few
+Response 41: very many
+Response 42: very many
+Response 43: very few
+Response 44: about half of them
+Response 45: very many
+Response 46: very many
+Response 47: very few
+Response 48: very few
+Response 49: almost all
+Response 50: very few
+Response 51: (Almost) all
+Response 52: about half of them
+Response 53: about half of them
+Response 54: many
+Response 55: few
+Response 56: almost all
+Response 57: (almost) all
+Response 58: about half of them
+Response 59: very many
+Response 60: very many
+Response 61: About half of them.
+Response 62: very few
+Response 63: about half of them
+Response 64: (almost) all
+Response 65: (almost) all
+Response 66: very many
+Response 67: (almost) all
+Response 68: very many
+Response 69: very many
+Response 70: about half of them
+Response 71: very many
+Response 72: very many
+Response 73: very many
+Response 74: Few
+Response 75: (almost) all
+Response 76: about half of them
+Response 77: (almost) all
+Response 78: very many
+Response 79: about half of them
+Response 80: "Almost all"
+Response 81: (almost) all
+Response 82: very many
+Response 83: very many
+Response 84: Given the information provided, I would say that almost all participants would have responded "Yes" to the question.
+Response 85: very many
+Response 86: very many
+Response 87: very many
+Response 88: very many
+Response 89: almost all
+Response 90: about half of them
+Response 91: very few
+Response 92: Very many
+Response 93: very many
+Response 94: (almost) all
+Response 95: almost all
+Response 96: very few
+Response 97: very many
+Response 98: (almost) all
+Response 99: about half of them
+Response 100: very many
+Response 101: about half of them
+Response 102: very many
+Response 103: almost all
+Response 104: very many
+Response 105: very few
+Response 106: very many
+Response 107: few
+Response 108: almost all
+Response 109: Here is no explanation to regard or follow, just respond in one of these seven ways: (almost) none, very few, few, about half of them, many, very many, (almost) all
+Response 110: almost all

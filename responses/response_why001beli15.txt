@@ -1,0 +1,110 @@
+Response 1: many
+Response 2: few
+Response 3: very few
+Response 4: very few
+Response 5: very few
+Response 6: Very few
+Response 7: very few
+Response 8: very few
+Response 9: very many
+Response 10: (almost) all
+Response 11: very many
+Response 12: very many
+Response 13: almost all
+Response 14: almost all
+Response 15: very few
+Response 16: very many
+Response 17: very many
+Response 18: Very few.
+Response 19: many
+Response 20: very many
+Response 21: very many
+Response 22: Very many
+Response 23: very few
+Response 24: very few
+Response 25: very many
+Response 26: very few
+Response 27: very many
+Response 28: (almost) all
+Response 29: very many
+Response 30: very many
+Response 31: very few
+Response 32: (almost) all
+Response 33: very many
+Response 34: (almost) all
+Response 35: very few
+Response 36: very many
+Response 37: very many
+Response 38: very few
+Response 39: very many
+Response 40: very many
+Response 41: Very few
+Response 42: (almost) all
+Response 43: very many
+Response 44: very many
+Response 45: very many
+Response 46: (almost) all
+Response 47: very few
+Response 48: very few
+Response 49: very few
+Response 50: very many
+Response 51: very many
+Response 52: very few
+Response 53: very many
+Response 54: very many
+Response 55: very few
+Response 56: very many
+Response 57: very few
+Response 58: very few
+Response 59: very few
+Response 60: very many
+Response 61: Many
+Response 62: very few
+Response 63: very few
+Response 64: very few
+Response 65: very many
+Response 66: (almost) all
+Response 67: very few
+Response 68: very few
+Response 69: very many
+Response 70: very few
+Response 71: very few
+Response 72: Very few.
+Response 73: very many
+Response 74: very many
+Response 75: very many
+Response 76: very few
+Response 77: very few
+Response 78: very few
+Response 79: many
+Response 80: few
+Response 81: (almost) all
+Response 82: very few
+Response 83: very many
+Response 84: almost all
+Response 85: few
+Response 86: very many
+Response 87: (almost) all
+Response 88: almost all
+Response 89: very many
+Response 90: about half of them
+Response 91: very many
+Response 92: few
+Response 93: few
+Response 94: very many
+Response 95: very many
+Response 96: many
+Response 97: (almost) all
+Response 98: very many
+Response 99: very many
+Response 100: very many
+Response 101: many
+Response 102: very many
+Response 103: very many
+Response 104: very many
+Response 105: few
+Response 106: very many
+Response 107: very few
+Response 108: very many
+Response 109: very many
+Response 110: very few

@@ -1,0 +1,109 @@
+Response 1: few
+Response 2: (almost) none
+Response 3: (almost) none
+Response 4: (almost) none
+Response 5: almost none
+Response 6: few
+Response 7: (almost) none
+Response 8: about half of them
+Response 9: (almost) none
+Response 10: (all) none
+Response 11: (almost) none
+Response 12: almost none
+Response 13: (almost) none
+Response 14: very few
+Response 15: (almost) none
+Response 16: almost none
+Response 17: (almost) none
+Response 18: few
+Response 19: almost none
+Response 20: (almost) none
+Response 21: (almost) none
+Response 22: (almost) none
+Response 23: few
+Response 24: (almost) none
+Response 25: (almost) none
+Response 26: about half of them
+Response 27: almost none
+Response 28: very few
+Response 29: (almost) none
+Response 30: few
+Response 31: few
+Response 32: In an experiment, 2,835 participants have been asked the question: "Is the following a vehicle: crutches?"
+Response 33: almost none
+Response 34: few
+Response 35: (almost) none
+Response 36: (almost) none
+Response 37: (almost) none
+Response 38: (almost) none
+Response 39: (almost) none
+Response 40: few
+Response 41: (almost) none
+Response 42: (almost) none
+Response 43: (almost) none
+Response 44: almost none
+Response 45: (almost) none
+Response 46: very few
+Response 47: about half of them
+Response 48: few
+Response 49: (almost) none
+Response 50: very few
+Response 51: (almost) none
+Response 52: (almost) none
+Response 53: almost none
+Response 54: very few
+Response 55: (almost) none
+Response 56: very few
+Response 57: almost none
+Response 58: about half of them
+Response 59: few
+Response 60: (few)
+Response 61: very few
+Response 62: almost none
+Response 63: few
+Response 64: (almost) none
+Response 65: almost none
+Response 66: (almost) none
+Response 67: (almost) none
+Response 68: (almost) none
+Response 69: (almost) none
+Response 70: (almost) none
+Response 71: (almost) none
+Response 72: (almost) none
+Response 73: (almost) none
+Response 74: few
+Response 75: (almost) none
+Response 76: about half of them
+Response 77: (almost) none
+Response 78: about half of them
+Response 79: few
+Response 80: (almost) none
+Response 81: few
+Response 82: (almost) none
+Response 83: almost none
+Response 84: (almost) none
+Response 85: (almost) all
+Response 86: about half of them
+Response 87: (almost) none
+Response 88: (few)
+Response 89: (almost) none
+Response 90: very few
+Response 91: (almost) none
+Response 92: almost none
+Response 93: (almost) none
+Response 94: (none)
+Response 95: answer: (almost) none
+Response 96: almost none
+Response 97: (almost) none
+Response 98: very few
+Response 99: very few
+Response 100: (almost) none
+Response 101: (almost) none
+Response 102: almost none
+Response 103: almost none
+Response 104: few
+Response 105: few
+Response 1: (almost) none
+Response 2: very few
+Response 3: (almost) none
+Response 4: very few

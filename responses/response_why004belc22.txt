@@ -1,0 +1,130 @@
+Response 1: very few
+Response 2: (almost) all
+Response 3: (almost) none
+Response 4: very few
+Response 5: almost none
+Response 6: very few
+Response 7: very few
+Response 8: (almost) none
+Response 9: very few
+Response 10: (almost) all
+Response 11: very few
+Response 12: almost none
+Response 13: few
+Response 14: very few
+Response 15: almost all
+Response 16: (almost) none
+Response 17: very few
+Response 18: almost none
+Response 19: very few
+Response 20: (almost) none
+Response 21: about half of them
+Response 22: about half of them
+Response 23: (almost) none
+Response 24: very few
+Response 25: Please respond with your best guess of how many participants responded "Yes" to the question.
+Response 26: (almost) none
+Response 27: about half of them
+Response 28: Very few
+Response 29: very few
+Response 30: very few
+Response 31: very few
+Response 32: very few
+Response 33: (almost) none
+Response 34: very few
+Response 35: many
+Response 36: very few
+Response 37: very few
+Response 38: (almost) all
+Response 39: very few
+Response 40: (almost) none
+Response 41: (almost) none
+Response 42: almost none
+Response 43: (almost) none
+Response 44: very few
+Response 45: very few
+Response 46: about half of them
+Response 47: (almost) none
+Response 48: very few
+Response 49: I am neutral, so I don't have any world knowledge or personal beliefs.
+Response 50: few
+Response 51: very few
+Response 52: about half of them
+Response 53: very few
+Response 54: (most likely) none
+Response 55: (almost) none
+Response 56: few
+Response 57: about half of them
+Response 58: many
+Response 59: almost none
+Response 60: (almost) all
+Response 61: almost none
+Response 62: very few
+Response 63: (almost) none
+Response 64: (almost) all
+Response 65: very few
+Response 66: very few
+Response 67: (almost) none
+Response 68: About half of them
+Response 69: (almost) none
+Response 70: very few
+Response 71: almost none
+Response 72: few
+Response 73: very few
+Response 74: very few
+Response 75: very few
+Response 76: about half of them
+Response 77: (almost) all
+Response 78: about half of them
+Response 79: few
+Response 80: about half of them
+Response 81: very few
+Response 82: very few
+Response 83: (almost) none
+Response 84: very few
+Response 85: about half of them
+Response 86: (almost) all
+Response 87: almost none
+Response 88: very few
+Response 89: (almost) all
+Response 90: (almost) none
+Response 91: almost none
+Response 92: almost none
+Response 93: very few
+Response 94: (almost) none
+Response 95: Many
+Response 96: almost none
+Response 97: (almost) all
+Response 98: (almost) none
+Response 99: (almost) all
+Response 100: I believe that (almost) none of the participants responded "yes".
+Response 101: very few
+Response 102: almost none
+Response 103: very few
+Response 104: about half of them
+Response 105: (Almost) none
+Response 106: about half of them
+Response 107: very few
+Response 108: almost none
+Response 109: few
+Response 110: (almost) none
+Response 111: very few
+Response 112: very few
+Response 113: almost none
+Response 114: very few
+Response 115: (almost) none
+Response 116: about half of them
+Response 117: (almost) none
+Response 118: few
+Response 119: very few
+Response 120: almost all
+Response 121: very few
+Response 122: (almost) all
+Response 123: very few
+Response 124: almost all
+Response 125: (almost) none
+Response 126: Very few
+Response 127: few
+Response 128: (almost) none
+Response 129: almost none
+Response 130: very few

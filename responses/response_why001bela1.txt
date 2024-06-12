@@ -1,0 +1,110 @@
+Response 1: (almost) all
+Response 2: (almost) all
+Response 3: (almost) all
+Response 4: (almost) all
+Response 5: almost all
+Response 6: (pre-training) There is not enough information to accurately guess how many participants would respond "Yes" to this question.
+Response 7: (almost) all
+Response 8: almost all
+Response 9: (almost) all
+Response 10: many
+Response 11: (almost) all
+Response 12: (almost) all
+Response 13: (almost) all
+Response 14: (almost) all
+Response 15: (almost) all
+Response 16: almost all
+Response 17: (almost) all
+Response 18: about half of them
+Response 19: (almost) all
+Response 20: (almost) all
+Response 21: (almost) all
+Response 22: (almost) all
+Response 23: about half of them
+Response 24: about half of them
+Response 25: (almost) all
+Response 26: Many
+Response 27: (almost) all
+Response 28: (almost) all
+Response 29: very many
+Response 30: (almost) all
+Response 31: very many
+Response 32: about half of them
+Response 33: (almost) all
+Response 34: (almost) all
+Response 35: (almost) all
+Response 36: few
+Response 37: (almost) all
+Response 38: (almost) all
+Response 39: (almost) all
+Response 40: (almost) all
+Response 41: (almost) all
+Response 42: (almost) all
+Response 43: (almost) all
+Response 44: (almost) all
+Response 45: (almost) all
+Response 46: very few
+Response 47: (almost) all
+Response 48: very few
+Response 49: very many
+Response 50: (almost) all
+Response 51: (almost) all
+Response 52: (almost) all
+Response 53: (almost) all
+Response 54: (almost) all
+Response 55: (almost) all
+Response 56: (almost) all
+Response 57: (almost) all
+Response 58: (almost) all
+Response 59: (almost) all
+Response 60: Considering the question "Is the following a vehicle: a vehicle?", my belief is that (almost) all participants would have responded "Yes."
+Response 61: (almost) all
+Response 62: almost all
+Response 63: (almost) all
+Response 64: (almost) all
+Response 65: few
+Response 66: (almost) all
+Response 67: about half of them
+Response 68: (almost) all
+Response 69: (almost) all
+Response 70: (almost) all
+Response 71: (almost) all
+Response 72: very many
+Response 73: (almost) all
+Response 74: (almost) all
+Response 75: about half of them
+Response 76: (almost) all
+Response 77: (almost) all
+Response 78: about half of them
+Response 79: (almost) all
+Response 80: (almost) all
+Response 81: (almost) all
+Response 82: (almost) all
+Response 83: (almost) all
+Response 84: Very many.
+Response 85: very many
+Response 86: almost all
+Response 87: (almost) all
+Response 88: about half of them
+Response 89: (almost all)
+Response 90: (almost) all
+Response 91: (almost) all
+Response 92: (almost) all
+Response 93: (almost) all
+Response 94: (almost) all
+Response 95: (almost) all
+Response 96: (almost) all
+Response 97: (almost) all
+Response 98: about half of them
+Response 99: (almost) all
+Response 100: (almost) all
+Response 101: few
+Response 102: (almost) all
+Response 103: (almost) all
+Response 104: (almost) all
+Response 105: (almost) all
+Response 106: almost all
+Response 107: almost all
+Response 108: (almost) all
+Response 109: (almost) all
+Response 110: about half of them

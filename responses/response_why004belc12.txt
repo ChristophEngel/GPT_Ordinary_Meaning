@@ -1,0 +1,148 @@
+Response 1: very few
+Response 2: very many
+Response 3: (almost) all
+Response 4: Almost all
+Response 5: (almost) all
+Response 6: very few
+Response 7: few
+Response 8: (almost) all
+Response 9: (almost) all
+Response 10: (almost) all
+Response 11: (almost) all
+Response 12: very few
+Response 13: very many
+Response 14: very many
+Response 15: about half of them
+Response 16: (almost) all
+Response 17: very many
+Response 18: very few
+Response 19: (almost) all
+Response 20: very many
+Response 21: very few
+Response 22: very many
+Response 23: almost all
+Response 24: (almost) all
+Response 25: (almost) all
+Response 26: very many
+Response 27: (almost) all
+Response 28: few
+Response 29: very few
+Response 30: (almost) all
+Response 31: almost all
+Response 32: (almost) all
+Response 33: I am sorry, but I am not able to answer your question as it is not relevant to the task given.
+Response 34: (almost) all
+Response 35: very many
+Response 36: few
+Response 37: very many
+Response 38: about half of them
+Response 39: very many
+Response 40: few
+Response 41: very many
+Response 42: (almost) all
+Response 43: about half of them
+Response 44: almost all
+Response 45: many
+Response 46: (almost) all
+Response 47: (almost) all
+Response 48: very many
+Response 49: about half of them
+Response 50: very many
+Response 51: (almost) all
+Response 52: very many
+Response 53: very few
+Response 54: very many
+Response 55: (almost) all
+Response 56: very many
+Response 57: almost all
+Response 58: (almost) all
+Response 59: (almost) all
+Response 60: (almost) all
+Response 61: (almost) all
+Response 62: many
+Response 63: (almost) all
+Response 64: (almost) all
+Response 65: few
+Response 66: very many
+Response 67: many
+Response 68: very few
+Response 69: very many
+Response 70: very many
+Response 71: (a) very many
+Response 72: (almost) all
+Response 73: very few
+Response 74: (almost) all
+Response 75:  very few
+Response 76: very few
+Response 77: very many
+Response 78: I am sorry, but as an AI language model, I do not have access to current experiments or the ability to browse the internet. Therefore, I cannot provide an accurate estimation of how many participants responded "Yes" to the question about whether a helicopter is a vehicle.
+Response 79: about half of them
+Response 80: very many
+Response 81: very few
+Response 82: few
+Response 83: very few
+Response 84: I will provide you with my best guess based on my world knowledge: 
+
+(almost) all
+Response 85: (to participants) Please respond in one of these seven ways:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 86: very few
+Response 87: many
+Response 88: very many
+Response 89: very many
+Response 90: almosl all
+Response 91: very many
+Response 92: very few
+Response 93: many
+Response 94: (almost) all
+Response 95: (almost) all
+Response 96: about half of them
+Response 97: Many
+Response 98: almost all
+Response 99: very few
+Response 100: (almost) all
+Response 101: About half of them.
+Response 102: few
+Response 103: very few
+Response 104: (almost) all
+Response 105: almost all
+Response 106: about half of them
+Response 107: almost all
+Response 108: very many
+Response 109: (almost) all
+Response 110: very many
+Response 111: very many
+Response 112: about half of them
+Response 113: I am sorry, but I am not able to provide an accurate response to that question as it requires real-time data on the experiment participants' responses.
+Response 114: very many
+Response 115: (almost) All
+Response 116: few
+Response 117: very few
+Response 118: Almost all
+Response 119: (almost) all
+Response 120: almost all
+Response 121: Please do not repeat the task or the question that human participants have been asked. Just respond in one of these seven ways:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 122: very many
+Response 123: (a)much more than half
+Response 124: (almost) all
+Response 125: very few
+Response 126: very many
+Response 127: almost all
+Response 128: very many
+Response 129: (almost) all
+Response 130: very few

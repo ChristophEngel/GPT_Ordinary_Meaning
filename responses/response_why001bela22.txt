@@ -1,0 +1,110 @@
+Response 1: Very few
+Response 2: very few
+Response 3: very few
+Response 4: very few
+Response 5: (almost) none
+Response 6: very few
+Response 7: (almost) all
+Response 8: few
+Response 9: very few
+Response 10: (almost) none
+Response 11: very few
+Response 12: very few
+Response 13: few
+Response 14: few
+Response 15: very few
+Response 16: Very few
+Response 17: very few
+Response 18: (almost) none
+Response 19: few
+Response 20: very few
+Response 21: very few
+Response 22: very few
+Response 23: about half of them
+Response 24: very few
+Response 25: very few
+Response 26: very few
+Response 27: few
+Response 28: very few
+Response 29: few
+Response 30: (almost) none
+Response 31: few
+Response 32: very few
+Response 33: very few
+Response 34: very few
+Response 35: few
+Response 36: very few
+Response 37: (almost) all
+Response 38: very few
+Response 39: very few
+Response 40: few
+Response 41: very few
+Response 42: very few
+Response 43: very few
+Response 44: few
+Response 45: few
+Response 46: few
+Response 47: very few
+Response 48: very few
+Response 49: very few
+Response 50: about half of them
+Response 51: very few
+Response 52: few
+Response 53: few
+Response 54: very few
+Response 55: very few
+Response 56: few
+Response 57: few
+Response 58: few
+Response 59: (almost) none
+Response 60: almost none
+Response 61: about half of them
+Response 62: (almost) none
+Response 63: very few
+Response 64: few
+Response 65: few
+Response 66: about half of them
+Response 67: very few
+Response 68: very few
+Response 69: (almost) none
+Response 70: very few
+Response 71: very few
+Response 72: about half of them
+Response 73: about half of them
+Response 74: few
+Response 75: very few
+Response 76: very few
+Response 77: (almost) none
+Response 78: (almost) none
+Response 79: very few
+Response 80: (almost) none
+Response 81: (almost) none
+Response 82: about half of them
+Response 83: (A) few
+Response 84: very few
+Response 85: very few
+Response 86: few
+Response 87: very few
+Response 88: (almost) none
+Response 89: very few
+Response 90: About half of them
+Response 91: few
+Response 92: very few
+Response 93: few
+Response 94: few
+Response 95: very few
+Response 96: few
+Response 97: (few)
+Response 98: (almost) none
+Response 99: about half of them
+Response 100: few
+Response 101: (almost) none
+Response 102: very few
+Response 103: few
+Response 104: few
+Response 105: very few
+Response 106: very few
+Response 107: very few
+Response 108: very few
+Response 109: few
+Response 110: few

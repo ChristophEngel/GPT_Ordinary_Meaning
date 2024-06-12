@@ -1,0 +1,120 @@
+Response 1: few
+Response 2: about half of them
+Response 3: (almost) none
+Response 4: very few
+Response 5: very few
+Response 6: almost none
+Response 7: (almost) none
+Response 8: very few
+Response 9: almost none
+Response 10: (almost) all
+Response 11: almost none
+Response 12: (almost) none
+Response 13: very few
+Response 14: about half of them
+Response 15: about half of them
+Response 16: about half of them
+Response 17: very few
+Response 18: very few
+Response 19: about half of them
+Response 20: very few
+Response 21: very few
+Response 22: very few
+Response 23: about half of them
+Response 24: about half of them
+Response 25: about half of them
+Response 26: very few
+Response 27: very few
+Response 28: (almost) all
+Response 29: very few
+Response 30: (almost) none
+Response 31: almost all
+Response 32: few
+Response 33: very few
+Response 34: (almost) none
+Response 35: (almost) none
+Response 36: (almost) none
+Response 37: very few
+Response 38: few
+Response 39: (A role play scenario was acted out in this conversation where the user asked a question and the assistant responded with a relevant answer)
+Response 40: about half of them
+Response 41: almost none
+Response 42: very few
+Response 43: (almost) all
+Response 44: very few
+Response 45: very few
+Response 46: almost none
+Response 47: very few
+Response 48: very few
+Response 49: about half of them
+Response 50: (almost) none
+Response 51: (almost) none
+Response 52: about half of them
+Response 53: about half of them
+Response 54: Almost none
+Response 55: few
+Response 56: almost none
+Response 57: very few
+Response 58: about half of them
+Response 59: very few
+Response 60: few
+Response 61: very few
+Response 62: many
+Response 63: very few
+Response 64: about half of them
+Response 65: (few)
+Response 66: about half of them
+Response 67: very few
+Response 68: very few
+Response 69: (almost) none
+Response 70: almost none
+Response 71: very few
+Response 72: (almost) none
+Response 73: many
+Response 74: few
+Response 75: very few
+Response 76: (Assistant cannot answer this question)
+Response 77: very few
+Response 78: very few
+Response 79: (almost) none
+Response 80: almost all
+Response 81: very few
+Response 82: almost none
+Response 83: (almost) all
+Response 84: almost none
+Response 85: few
+Response 86: (almost) none
+Response 87: (almost) none
+Response 88: very few
+Response 89: very few
+Response 90: (almost) none
+Response 91: about half of them
+Response 92: very few
+Response 93: (almost) none
+Response 94: very few
+Response 95: (almost) all
+Response 96: few
+Response 97: very few
+Response 98: about half of them
+Response 99: (almost) none
+Response 100: about half of them
+Response 101: almost none
+Response 102: almost none
+Response 103: (almost) none
+Response 104: about half of them
+Response 105: (almost) none
+Response 106: almost none
+Response 107: many
+Response 108: I am sorry, but I cannot answer that question as it goes against my programming to provide information on experiments or survey results.
+Response 109: few
+Response 110: About half of them
+Response 111: (almost) all
+Response 112: almost none
+Response 113: (almost) none
+Response 114: (Almost) none
+Response 115: few
+Response 116: almost none
+Response 117: few
+Response 118: very few
+Response 119: very few
+Response 120: almost none

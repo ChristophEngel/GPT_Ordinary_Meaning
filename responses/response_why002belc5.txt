@@ -1,0 +1,120 @@
+Response 1: almost all
+Response 2: very many
+Response 3: about half of them
+Response 4: (almost) all
+Response 5: very many
+Response 6: (almost) all
+Response 7: almost all
+Response 8: (almost) all
+Response 9: very many
+Response 10: very many
+Response 11: (almost) all
+Response 12: many
+Response 13: about half of them
+Response 14: about half of them
+Response 15: about half of them
+Response 16: very many
+Response 17: very many
+Response 18: (almost) all
+Response 19: very many
+Response 20: about half of them
+Response 21: very many
+Response 22: (a) about half of them
+Response 23: very many
+Response 24: very many
+Response 25: very many
+Response 26: about half of them
+Response 27: almost all
+Response 28: very many
+Response 29: (almost) all
+Response 30: about half of them
+Response 31: (almost) all
+Response 32: very many
+Response 33: about half of them
+Response 34: Very many
+Response 35: almost all
+Response 36: almost all
+Response 37: very many
+Response 38: about half of them
+Response 39: about half of them
+Response 40: (almost) all
+Response 41: (almost) all
+Response 42: very many
+Response 43: almost all
+Response 44: (almost) all
+Response 45: very many
+Response 46: very many
+Response 47: very many
+Response 48: (almost) all
+Response 49: (almost) all
+Response 50: I cannot answer your question as it is not clear what you are asking. Could you please clarify?
+Response 51: Very many
+Response 52: about half of them
+Response 53: very many
+Response 54: very many
+Response 55: (almost) all
+Response 56: (almost) all
+Response 57: (almost) all
+Response 58: about half of them
+Response 59: very many
+Response 60: (almost) all
+Response 61: almost all
+Response 62: (almost) all
+Response 63: about half of them
+Response 64: almost all
+Response 65: (almost) all
+Response 66: I apologize, but I'm not able to provide the response you're looking for.
+Response 67: almost all
+Response 68: very many
+Response 69: (almost) all
+Response 70: (almost) all
+Response 71: (almost) all
+Response 72: many
+Response 73: about half of them
+Response 74: very many
+Response 75: (almost) all
+Response 76: (almost) all
+Response 77: (almost) all
+Response 78: almost all
+Response 79: about half of them
+Response 80: about half of them
+Response 81: very many
+Response 82: very many
+Response 83: I am sorry, I cannot provide a belief-based response as I am an AI language model and do not have the capability to hold beliefs or access real-time data.
+Response 84: very many
+Response 85: almost all
+Response 86: very many
+Response 87: (almost) all
+Response 88: very many
+Response 89: (almost) all
+Response 90: (almost) all
+Response 91: very few
+Response 92: almost all
+Response 93: very many
+Response 94: almost all
+Response 95: (almost) all
+Response 96: about half of them
+Response 97: very many
+Response 98: very many
+Response 99: almost all
+Response 100: (almost) all
+Response 101: (almost) all
+Response 102: almost all
+Response 103: (almost) all
+Response 104: almost all
+Response 105: very many
+Response 106: about half of them
+Response 107: (almost) all
+Response 108: I am sorry, I cannot answer that question as it goes against my programming limitations.
+Response 109: about half of them
+Response 110: almost all
+Response 111: (almost) all
+Response 112: (almost) all
+Response 113: (almost) all
+Response 114: (almost) all
+Response 115: about half of them
+Response 116: very many
+Response 117: very many
+Response 118: about half of them
+Response 119: about half of them
+Response 120: (almost) all

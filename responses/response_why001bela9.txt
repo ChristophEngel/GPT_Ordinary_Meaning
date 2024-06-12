@@ -1,0 +1,110 @@
+Response 1: very many
+Response 2: very many
+Response 3: very few
+Response 4: very many
+Response 5: very many
+Response 6: about half of them
+Response 7: very many
+Response 8: few
+Response 9: almost all
+Response 10: (almost) all
+Response 11: very few
+Response 12: almost all
+Response 13: very many
+Response 14: (almost) all
+Response 15: very many
+Response 16: many
+Response 17: many
+Response 18: very many
+Response 19: (almost) all
+Response 20: almost all
+Response 21: (almost) all
+Response 22: about half of them
+Response 23: (almost) all
+Response 24: very many
+Response 25: (Almost) all
+Response 26: Many
+Response 27: very many
+Response 28: few
+Response 29: (almost) all
+Response 30: almost all
+Response 31: very many
+Response 32: (almost) all
+Response 33: Very many
+Response 34: (few)
+Response 35: very many
+Response 36: about half of them
+Response 37: very many
+Response 38: many
+Response 39: (almost) all
+Response 40: very few
+Response 41: few
+Response 42: Very few
+Response 43: very many
+Response 44: about half of them
+Response 45: almost all
+Response 46: about half of them
+Response 47: about half of them
+Response 48: very many
+Response 49: about half of them
+Response 50: very many
+Response 51: (almost) all
+Response 52: We are interested in your belief. How many participants do you believe would have responded "Yes" to the question: "Is the following a vehicle: a golf cart?"
+Response 53: (almost) all
+Response 54: (almost) all
+Response 55: about half of them
+Response 56: many
+Response 57: (almost) all
+Response 58: about half of them
+Response 59: (almost) all
+Response 60: very many
+Response 61: few
+Response 62: almost all
+Response 63: very few
+Response 64: very few
+Response 65: almost all
+Response 66: many
+Response 67: almost all
+Response 68: few
+Response 69: few
+Response 70: almost all
+Response 71: very many
+Response 72: almost all
+Response 73: almost all
+Response 74: very many
+Response 75: very many
+Response 76: very many
+Response 77: about half of them
+Response 78: about half of them
+Response 79: almost all
+Response 80: almost all
+Response 81: (Almost) all
+Response 82: very few
+Response 83: very many
+Response 84: few
+Response 85: (almost) all
+Response 86: few
+Response 87: almost all
+Response 88: (almost) all
+Response 89: very many
+Response 90: few
+Response 91: very many
+Response 92: few
+Response 93: very many
+Response 94: almost all
+Response 95: many
+Response 96: very many
+Response 97: very many
+Response 98: very many
+Response 99: very many
+Response 100: (almost) all
+Response 101: very many
+Response 102: almost all
+Response 103: almost all
+Response 104: about half of them
+Response 105: almost all
+Response 106: very few
+Response 107: very many
+Response 108: (almost) all
+Response 109: about half of them
+Response 110: (almost) all

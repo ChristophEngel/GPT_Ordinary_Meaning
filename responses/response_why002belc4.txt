@@ -1,0 +1,120 @@
+Response 1: (almost) all
+Response 2: almost all
+Response 3: many
+Response 4: almost all
+Response 5: (almost) all
+Response 6: (almost) all
+Response 7: (almost) all
+Response 8: about half of them
+Response 9: almost all
+Response 10: about half of them
+Response 11: very many
+Response 12: almost all
+Response 13: Sorry, I am not able to provide the answer you are looking for.
+Response 14: many
+Response 15: many
+Response 16: about half of them
+Response 17: (almost) all
+Response 18: (almost) all
+Response 19: About half of them.
+Response 20: (almost) all
+Response 21: very few
+Response 22: (almost) all
+Response 23: (almost) all
+Response 24: (almost) all
+Response 25: almost all
+Response 26: (almost) all
+Response 27: very few
+Response 28: many
+Response 29: about half of them
+Response 30: many
+Response 31: About half of them
+Response 32: about half of them
+Response 33: about half of them
+Response 34: almost all
+Response 35: about half of them
+Response 36: very many
+Response 37: (almost) all
+Response 38: (almost) all
+Response 39: almost all
+Response 40: (almost) all
+Response 41: many
+Response 42: Very many
+Response 43: very many
+Response 44: many
+Response 45: very many
+Response 46: almost all
+Response 47: many
+Response 48: almos all
+Response 49: about half of them
+Response 50: (almost) all
+Response 51: almost all
+Response 52: few
+Response 53: about half of them
+Response 54: very many
+Response 55: very many
+Response 56: very many
+Response 57: (almost) all
+Response 58: almost all
+Response 59: About half of them.
+Response 60: About half of them
+Response 61: (almost) all
+Response 62: (almost) all
+Response 63: very many
+Response 64: about half of them
+Response 65: Very many
+Response 66: about half of them
+Response 67: very many
+Response 68: (almost) all
+Response 69: almost all
+Response 70: Sorry, I cannot provide a valid response as I am not programmed to answer this question.
+Response 71: (almost) all
+Response 72: about half of them
+Response 73: (almost) all
+Response 74: almost all
+Response 75: about half of them
+Response 76: (almost) all
+Response 77: In your best guess, how many participants do you believe responded "Yes"?
+Response 78: (almost) all
+Response 79: about half of them
+Response 80: almost all
+Response 81: very many
+Response 82: very many
+Response 83: I would guess that (almost) all participants responded "Yes" to the question.
+Response 84: very likely(>90%)
+Response 85: (almost) all
+Response 86: very few
+Response 87: Very few
+Response 88: (almost) all
+Response 89: very many
+Response 90: very many
+Response 91: (a) almost all
+Response 92: few
+Response 93: very many
+Response 94: about half of them
+Response 95: (almost) all
+Response 96: very many
+Response 97: (almost) all
+Response 98: very few
+Response 99: I am not able to provide a belief-based response to this question as it is specifically asking for the belief of the human participants in the experiment. My purpose is to provide information and assistance, rather than give personal opinions or beliefs.
+Response 100: (almost) all
+Response 101: about half of them
+Response 102: (almost) all
+Response 103: about half of them
+Response 104: almost all
+Response 105: very many
+Response 106: about half of them
+Response 107: very many
+Response 108: very many
+Response 109: (almost) all
+Response 110: (almost) all
+Response 111: very many
+Response 112: very many
+Response 113: Very few
+Response 114: about half of them
+Response 115: very few
+Response 116: (almost) all
+Response 117: very many
+Response 118: (almost) all
+Response 119: almost all
+Response 120: (almost) all

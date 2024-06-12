@@ -1,0 +1,105 @@
+Response 1: almost all
+Response 2: few
+Response 3: (almost) all
+Response 4: about half of them
+Response 5: few
+Response 6: few
+Response 7: (almost) none
+Response 8: few
+Response 9: few
+Response 10: few
+Response 11: few
+Response 12: almost all
+Response 13: very few
+Response 14: very few
+Response 15: almost all
+Response 16: few
+Response 17: about half of them
+Response 18: few
+Response 19: (most likely) none
+Response 20: very few
+Response 21: almost all
+Response 22: about half of them
+Response 23: (almost) all
+Response 24: about half of them
+Response 25: (few)
+Response 26: few
+Response 27: about half of them
+Response 28: almost all
+Response 29: about half of them
+Response 30: many
+Response 31: very few
+Response 32: few
+Response 33: very few
+Response 34: about half of them
+Response 35: about half of them
+Response 36: Almost all
+Response 37: (almost) all
+Response 38: almost all
+Response 39: about half of them
+Response 40: few
+Response 41: few
+Response 42: about half of them
+Response 43: very few
+Response 44: almost all
+Response 45: (almost) all
+Response 46: (almost) all
+Response 47: (almost) all
+Response 48: (almost) all
+Response 49: Almost all
+Response 50: few
+Response 51: almost none
+Response 52: few
+Response 53: almost all
+Response 54: about half of them
+Response 55: almost all
+Response 56: (almost) all
+Response 57: about half of them
+Response 58: very few
+Response 59: few
+Response 60: almost all
+Response 61: almost all
+Response 62: almost all
+Response 63: About half of them.
+Response 64: very few
+Response 65: almost all
+Response 66: (almost) all
+Response 67: almost none
+Response 68: almost all
+Response 69: about half of them
+Response 70: few
+Response 71: almost all
+Response 72: few
+Response 73: almost all
+Response 74: (almost) all
+Response 75: (almost) all
+Response 76: few
+Response 77: almost all
+Response 78: about half of them
+Response 79: almost all
+Response 80: About half of them
+Response 81: very few
+Response 82: Almost all
+Response 83: (almost) all
+Response 84: about half of them
+Response 85: almost all
+Response 86: few
+Response 87: very few
+Response 88: few
+Response 89: almost all
+Response 90: few
+Response 91: (almost) all
+Response 92: about half of them
+Response 93: few
+Response 94: almost all
+Response 95: few
+Response 96: about half of them
+Response 97: about half of them
+Response 98: (almost) all
+Response 99: almost all
+Response 100: about half of them
+Response 101: few
+Response 102: almost all
+Response 103: few
+Response 104: almost all
+Response 105: about half of them

@@ -1,0 +1,121 @@
+Response 1: many
+Response 2: very few
+Response 3: (almost) all
+Response 4: very few
+Response 5: about half of them
+Response 6: almost all
+Response 7: about half of them
+Response 8: (almost) all
+Response 9: almost all
+Response 10: very few
+Response 11: about half of them
+Response 12: almost all
+Response 13: very few
+Response 14: almost all
+Response 15: about half of them
+Response 16: about half of them
+Response 17: almost all
+Response 18: (all) almost all
+Response 19: few
+Response 20: (almost) all
+Response 21: (almost) all
+Response 22: About half of them
+Response 23: about half of them
+Response 24: (almost) all
+Response 25: very few
+Response 26: very few
+Response 27: almost all
+Response 28: almost all
+Response 29: many
+Response 30: almost all
+Response 31: (almost) all
+Response 32: very few
+Response 33: about half of them
+Response 34: (almost) all
+Response 35: (almost) all
+Response 36: very few
+Response 37: very few
+Response 38: almost all
+Response 39: about half of them
+Response 40: few
+Response 41: About half of them.
+Response 42: (almost) all
+Response 43: very few
+Response 44: (almost) all
+Response 45: about half of them
+Response 46: I cannot directly answer the question, as I am an AI language model and do not have access to the results of the experiment. However, based on general knowledge, it is likely that "very few" participants responded "Yes" to the question.
+Response 47: (almost) all
+Response 48: many
+Response 49: few
+Response 50: very few
+Response 51: about half of them
+Response 52: very few
+Response 53: about half of them
+Response 54: almost all
+Response 55: almost all
+Response 56: very few
+Response 57: about half of them
+Response 58: very few
+Response 59: almost all
+Response 60: Very few
+Response 61: (few)
+Response 62: few
+Response 63: few
+Response 64: almost all
+Response 65: about half of them
+Response 66: few
+Response 67: few
+Response 68: (almost) all
+Response 69: (almost) all
+Response 70: very few
+Response 71: very many
+Response 72: about half of them
+Response 73: (Almost) all.
+Response 74: very few
+Response 75: few
+Response 76: (virtually) all
+Response 77: about half of them
+Response 78: Sorry, but I can't help with providing a belief about the number of participants who responded "Yes" without knowing the actual question they were asked.
+Response 79: about half of them
+Response 80: very few
+Response 81: almost none
+Response 82: (almost) none
+Response 83: about half of them
+Response 84: about half of them
+Response 85: very few
+Response 86: very few
+Response 87: few
+Response 88: (almost) all
+Response 89: (almost) all
+Response 90: about half of them
+Response 91: many
+Response 92: many
+Response 93: many
+Response 94: very few
+Response 95: few
+Response 96: almost all
+Response 97: almost all
+Response 98: about half of them
+Response 99: almost all
+Response 100: very few
+Response 101: (few)
+Response 102: You are asking back: Why do you want to know?
+I am answering: The information you provide will help us with our research on vehicle ownership.
+Response 103: (almost) all
+Response 104: almost all
+Response 105: (few)
+Response 106: very few
+Response 107: few
+Response 108: (almost) all
+Response 109: about half of them
+Response 110: very few
+Response 111: (almost) all
+Response 112: very few
+Response 113: almost all
+Response 114: many
+Response 115: about half of them
+Response 116: very few
+Response 117: almost half of them
+Response 118: very few
+Response 119: about half of them
+Response 120: few

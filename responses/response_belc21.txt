@@ -1,0 +1,105 @@
+Response 1: very few
+Response 2: about half of them
+Response 3: about half of them
+Response 4: about half of them
+Response 5: Very few
+Response 6: (almost) all
+Response 7: almost all
+Response 8: almost none
+Response 9: (almost) all
+Response 10: very few
+Response 11: almost all
+Response 12: almost all
+Response 13: few
+Response 14: (almost) all
+Response 15: (almost) all
+Response 16: (almost) all
+Response 17: very few
+Response 18: few
+Response 19: (almost) all
+Response 20: about half of them
+Response 21: (Very) few
+Response 22: (almost) all
+Response 23: few
+Response 24: (almost) all
+Response 25: (almost) none
+Response 26: almost none
+Response 27: about half of them
+Response 28: (almost) none
+Response 29: (almost) all
+Response 30: almost all
+Response 31: very few
+Response 32: few
+Response 33: (ALMOST) ALL
+Response 34: (almost) all
+Response 35: about half of them
+Response 36: about half of them
+Response 37: very few
+Response 38: many
+Response 39: almost all
+Response 40: (almost) all
+Response 41: almost none
+Response 42: (almost) all
+Response 43: (almost) all
+Response 44: Almost none
+Response 45: (Almost) all
+Response 46: many
+Response 47: (almost) all
+Response 48: (few)
+Response 49: few
+Response 50: almost all
+Response 51: few
+Response 52: (almost) all
+Response 53: few
+Response 54: few
+Response 55: few
+Response 56: (almost) all
+Response 57: (almost) all
+Response 58: almost all
+Response 59: few
+Response 60: almost none
+Response 61: (almost) all
+Response 62: (almost) all
+Response 63: (almost) all
+Response 64: few
+Response 65: The following is not a vehicle, roller-skates.
+Response 66: few
+Response 67: Almost none
+Response 68: (almost) none
+Response 69: very few
+Response 70: (almost) all
+Response 71: almost all
+Response 72: (almost) all
+Response 73: few
+Response 74: few
+Response 75: few
+Response 76: almost none
+Response 77: few
+Response 78: (almost) all
+Response 79: many
+Response 80: few
+Response 81: (almost) none
+Response 82: almost all
+Response 83: (almost) all
+Response 84: few
+Response 85: (almost) all
+Response 86: very few
+Response 87: (almost) all
+Response 88: about half of them
+Response 89: few
+Response 90: few
+Response 91: (almost) all
+Response 92: (almost) all
+Response 93: very few
+Response 94: (almost) all
+Response 95: about half of them
+Response 96: few
+Response 97: about half of them
+Response 98: (almost) all
+Response 99: almost all
+Response 100: very few
+Response 101: few
+Response 102: about half of them
+Response 103: very few
+Response 104: (few)
+Response 105: very few

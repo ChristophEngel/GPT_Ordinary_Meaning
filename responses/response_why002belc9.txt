@@ -1,0 +1,128 @@
+Response 1: very many
+Response 2: about half of them
+Response 3: very many
+Response 4: (almost) all
+Response 5: (almost) all
+Response 6: very many
+Response 7: almost all
+Response 8: very many
+Response 9: about half of them
+Response 10: few
+Response 11: very few
+Response 12: about half of them
+Response 13: almost all
+Response 14: very many
+Response 15: about half of them
+Response 16: (almost) all
+Response 17: very many
+Response 18: very many
+Response 19: very many
+Response 20: (almost) all
+Response 21: very many
+Response 22: (almost) all
+Response 23: few
+Response 24: very few
+Response 25: very many
+Response 26: about half of them
+Response 27: almost all
+Response 28: very many
+Response 29: (almost) all
+Response 30: I cannot answer this question as it goes against OpenAI's use case policy.
+Response 31: very many
+Response 32: very few
+Response 33: about half of them
+Response 34: (almost) all
+Response 35: (almost) all
+Response 36: (almost) all
+Response 37: almost all
+Response 38: almost all
+Response 39: about half of them
+Response 40: almost all
+Response 41: very few
+Response 42: about half of them
+Response 43: (almost) all
+Response 44: about half of them
+Response 45: (almost) all
+Response 46: Please respond with one of the following options:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 47: very many
+Response 48: almost all
+Response 49: almost all
+Response 50: almost all
+Response 51: very many
+Response 52: almost all
+Response 53: many
+Response 54: (almost) all
+Response 55: very few
+Response 56: (almost) all
+Response 57: (almost) all
+Response 58: very many
+Response 59: about half of them
+Response 60: very many
+Response 61: very few
+Response 62: very many
+Response 63: very few
+Response 64: few
+Response 65: almost all
+Response 66: (almost) all
+Response 67: (almost) all
+Response 68: about half of them
+Response 69: many
+Response 70: (almost) all
+Response 71: Almost all
+Response 72: almost all
+Response 73: very many
+Response 74: very many
+Response 75: very many
+Response 76: (almost) all
+Response 77: (almost) all
+Response 78: about half of them
+Response 79: (almost) all
+Response 80: very many
+Response 81: very few
+Response 82: very many
+Response 83: about half of them
+Response 84: about half of them
+Response 85: very many
+Response 86: very many
+Response 87: almost all
+Response 88: very many
+Response 89: many
+Response 90: about half of them
+Response 91: about half of them
+Response 92: (almost) all
+Response 93: very many
+Response 94: (almost) all
+Response 95: very many
+Response 96: many
+Response 97: very many
+Response 98: (almost) all
+Response 99: (almost) all
+Response 100: almost all
+Response 101: very many
+Response 102: (almost) all
+Response 103: about half of them
+Response 104: (almost) all
+Response 105: (almost) all
+Response 106: (almost) all
+Response 107: about half of them
+Response 108: almost all
+Response 109: (Almost) all
+Response 110: (almost) all
+Response 111: (almost) all
+Response 112: I cannot answer your question, as I am an AI language model and I do not have access to real-time data or the ability to conduct surveys.
+Response 113: very many
+Response 114: many
+Response 115: very few
+Response 116: very few
+Response 117: few
+Response 118: (almost) all
+Response 119: very many
+Response 120: very few

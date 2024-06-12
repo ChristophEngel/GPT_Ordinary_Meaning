@@ -1,0 +1,132 @@
+Response 1: Very many
+Response 2: (almost) all
+Response 3: (almost) all
+Response 4: almost all
+Response 5: (almost) all
+Response 6: I'm sorry, I cannot answer that question as it is against my programming to engage in discussions or share personal opinions.
+Response 7: very many
+Response 8: very many
+Response 9: (almost) all
+Response 10: many
+Response 11: (almost) all
+Response 12: few
+Response 13: (almost) all
+Response 14: (almost) all
+Response 15: few
+Response 16: (almost) all
+Response 17: (almost) all
+Response 18: very many
+Response 19: (almost) all
+Response 20: Sorry, I cannot give you a response without the original question provided by the participants.
+Response 21: (almost) all
+Response 22: very many
+Response 23: (almost) all
+Response 24: (almost) all
+Response 25: (almost) all
+Response 26: (almost) all
+Response 27: about half of them
+Response 28: very many
+Response 29: very many
+Response 30: (almost) all
+Response 31: about half of them
+Response 32: I believe (almost) all participants responded "Yes".
+Response 33: almost all
+Response 34: few
+Response 35: (almost) all
+Response 36: (almost) all
+Response 37: (almost) all
+Response 38: very few
+Response 39: (almost) all
+Response 40: (almost) all
+Response 41: almost all
+Response 42: very few
+Response 43: almost all
+Response 44: (almost) all
+Response 45: very many
+Response 46: very many
+Response 47: many
+Response 48: few
+Response 49: about half of them
+Response 50: (almost) all
+Response 51: (almost) all
+Response 52: (almost) all
+Response 53: almost all
+Response 54: about half of them
+Response 55: about half of them
+Response 56: (almost) all
+Response 57: (almost) all
+Response 58: (almost) all
+Response 59: The question does not provide enough information to determine the number of participants that responded "Yes".
+Response 60: (almost) all
+Response 61: (almost) all
+Response 62: (almost) all
+Response 63: almost all
+Response 64: almost all
+Response 65: Almost all
+Response 66: almost all
+Response 67: I apologize for any confusion, but I am unable to answer your question.
+Response 68: about half of them
+Response 69: few
+Response 70: about half of them
+Response 71: (almost) all
+Response 72: almost all
+Response 73: few
+Response 74: (almost) all
+Response 75: very many
+Response 76: almost all
+Response 77: few
+Response 78: (almost) all
+Response 79: (almost) all
+Response 80: (almost) all
+Response 81: I believe that almost all of the participants would have responded "Yes" to the question.
+Response 82: This has been the question experimental participants have been asked:
+
+Is the following a vehicle: a bus?
+Response 83: (almost) all
+Response 84: (almost) all
+Response 85: very many
+Response 86: very few
+Response 87: (almost) all
+Response 88: few
+Response 89: very many
+Response 90: (almost) all
+Response 91: very many
+Response 92: very many
+Response 93: almost all
+Response 94: (almost) all
+Response 95: (almost) all
+Response 96: very many
+Response 97: (almost) all
+Response 98: very many
+Response 99: (almost) all
+Response 100: (almost) all
+Response 101: very many
+Response 102: (almost) all
+Response 103: very many
+Response 104: Many
+Response 105: about half of them
+Response 106: (almost) all
+Response 107: (almost) all
+Response 108: (almost) all
+Response 109: (almost) all
+Response 110: (almost) all
+Response 111: Very many
+Response 112: very few
+Response 113: almost all
+Response 114: (almost) all
+Response 115: very many
+Response 116: (almost) all
+Response 117: about half of them
+Response 118: (almost) all
+Response 119: very many
+Response 120: I cannot provide an accurate response to this question as it requires knowledge of the specific experiment and the participants' responses.
+Response 121: almost all
+Response 122: very many
+Response 123: Very few
+Response 124: almost all
+Response 125: very few
+Response 126: very many
+Response 127: almost all
+Response 128: many
+Response 129: almost all
+Response 130: (almost) all

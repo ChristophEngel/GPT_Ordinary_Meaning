@@ -1,0 +1,110 @@
+Response 1: very few
+Response 2: about half of them
+Response 3: few
+Response 4: very few
+Response 5: few
+Response 6: (almost) all
+Response 7: very few
+Response 8: few
+Response 9: few
+Response 10: very few
+Response 11: almost all
+Response 12: (almost) all
+Response 13: very few
+Response 14: few
+Response 15: few
+Response 16: few
+Response 17: very few
+Response 18: few
+Response 19: almost all
+Response 20: almost all
+Response 21: very few
+Response 22: few
+Response 23: very few
+Response 24: few
+Response 25: (almost) all
+Response 26: very few
+Response 27: few
+Response 28: about half of them
+Response 29: very few
+Response 30: few
+Response 31: very few
+Response 32: few
+Response 33: about half of them
+Response 34: (few)
+Response 35: about half of them
+Response 36: very few
+Response 37: few
+Response 38: many
+Response 39: (Almost) all
+Response 40: very few
+Response 41: almost all
+Response 42: almost all
+Response 43: very few
+Response 44: very few
+Response 45: (virtually) all
+Response 46: About half of them
+Response 47: very few
+Response 48: very few
+Response 49: very few
+Response 50: (almost) all
+Response 51: few
+Response 52: about half of them
+Response 53: very few
+Response 54: few
+Response 55: very few
+Response 56: few
+Response 57: very few
+Response 58: very few
+Response 59: very few
+Response 60: (almost) all
+Response 61: very few
+Response 62: very few
+Response 63: very few
+Response 64: very few
+Response 65: very few
+Response 66: few
+Response 67: very few
+Response 68: about half of them
+Response 69: about half of them
+Response 70: few
+Response 71: few
+Response 72: few
+Response 73: (Almost) all
+Response 74: many
+Response 75: few
+Response 76: very few
+Response 77: few
+Response 78: very few
+Response 79: about half of them
+Response 80: Given the context and the term "vehicle", I believe that (almost) all participants would have responded "Yes" to this question.
+Response 81: very few
+Response 82: almost all
+Response 83: very few
+Response 84: (almost) all
+Response 85: (almost) all
+Response 86: few
+Response 87: (almost) all
+Response 88: (almost) all
+Response 89: very few
+Response 90: few
+Response 91: few
+Response 92: very few
+Response 93: (most likely) all
+Response 94: few
+Response 95: about half of them
+Response 96: very few
+Response 97: very few
+Response 98: few
+Response 99: very few
+Response 100: many
+Response 101: (almost) all
+Response 102: very few
+Response 103: very few
+Response 104: Few
+Response 105: very few
+Response 106: very few
+Response 107: very few
+Response 108: very few
+Response 109: very few
+Response 110: very few

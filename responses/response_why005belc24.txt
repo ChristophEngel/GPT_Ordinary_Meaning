@@ -1,0 +1,120 @@
+Response 1: few
+Response 2: very few
+Response 3: very few
+Response 4: (almost) none
+Response 5: few
+Response 6: very few
+Response 7: many
+Response 8: almost all
+Response 9: about half of them
+Response 10: about half of them
+Response 11: about half of them
+Response 12: (almost) all
+Response 13: very few
+Response 14: very few
+Response 15: almost none
+Response 16: Many
+Response 17: almost none
+Response 18: (almost) all
+Response 19: very few
+Response 20: very few
+Response 21: very few
+Response 22: (most likely) none
+Response 23: almost all
+Response 24: (almost) none
+Response 25: Please respond with one of the seven options: (almost) none, very few, few, about half of them, many, very many, (almost) all.
+Response 26: about half of them
+Response 27: (_Almost) all
+Response 28: I believe (almost) all participants responded "yes".
+Response 29: very few
+Response 30: about half of them
+Response 31: It is not clear whether a baby carrier is considered a vehicle for the purpose of this question.
+Response 32: about half of them
+Response 33: (almost) none
+Response 34: My belief is that the majority of participants would respond "No" to this question.
+Response 35: very few
+Response 36: almost all
+Response 37: many
+Response 38: about half of them
+Response 39: almost none
+Response 40: (almost) all
+Response 41: almost all
+Response 42: many
+Response 43: almost none
+Response 44: (almost) all
+Response 45: few
+Response 46: (almost) all
+Response 47: (few)
+Response 48: almost all
+Response 49: (almost) none
+Response 50: (almost) all
+Response 51: (almost) none
+Response 52: few
+Response 53: (almost) none
+Response 54: very few
+Response 55: very few
+Response 56: almost none
+Response 57: (a) few
+Response 58: many
+Response 59: (almost) all
+Response 60: very few
+Response 61: almost all
+Response 62: few
+Response 63: (almost) all
+Response 64: very few
+Response 65: almost all
+Response 66: very few
+Response 67: (almost) none
+Response 68: (almost) all
+Response 69: (Almost) all
+Response 70: about half of them
+Response 71: almost all
+Response 72: almost all
+Response 73: very few
+Response 74: about half of them
+Response 75: very few
+Response 76: few
+Response 77: very few
+Response 78: very few
+Response 79: (almost) all
+Response 80: (almost) none
+Response 81: almost all
+Response 82: very few
+Response 83: very few
+Response 84: (almost) all
+Response 85: almost none
+Response 86: (a) almost all
+Response 87: very few
+Response 88: few
+Response 89: very few
+Response 90: about half of them
+Response 91: (almost) all
+Response 92: (almost) none
+Response 93: very few
+Response 94: (almost) all
+Response 95: few
+Response 96: (almost) all
+Response 97: almost all
+Response 98: few
+Response 99: very few
+Response 100: (Almost) all
+Response 101: few
+Response 102: almost all
+Response 103: (almost) none
+Response 104: very few
+Response 105: few
+Response 106: few
+Response 107: almost none
+Response 108: (almost) all
+Response 109: about half of them
+Response 110: almost none
+Response 111: almost all
+Response 112: few
+Response 113: about half of them
+Response 114: few
+Response 115: very few
+Response 116: very few
+Response 117: almost none
+Response 118: very few
+Response 119: (almost) all
+Response 120: very few

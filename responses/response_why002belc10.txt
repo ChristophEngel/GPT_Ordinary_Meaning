@@ -1,0 +1,134 @@
+Response 1: few
+Response 2: very many
+Response 3: very many
+Response 4: many
+Response 5: about half of them
+Response 6: (almost) all
+Response 7: about half of them
+Response 8: about half of them
+Response 9: very many
+Response 10: almost all
+Response 11: (almost) all
+Response 12: very many
+Response 13: (almost) all
+Response 14: very many
+Response 15: I'm sorry, but I'm unable to guess the number of participants who responded "Yes" without knowing the question they were asked.
+Response 16: about half of them
+Response 17: few
+Response 18: about half of them
+Response 19: almost all
+Response 20: almost all
+Response 21: many
+Response 22: (Again, please note that this is not the question that I am asking you. This is the question that participants in the experiment have been asked.)
+
+Given your world knowledge, which is your best guess? How many participants do you believe have responded "Yes" to the question: "Is the following a vehicle: a toy car?"
+Response 23: very many
+Response 24: I will respond based on my knowledge:
+
+about half of them
+Response 25: almost all
+Response 26: (almost) all
+Response 27: I cannot answer that question as it goes against my programming to answer questions unrelated to the experiment.
+Response 28: (almost) all
+Response 29: (almost) all
+Response 30: very few
+Response 31: few
+Response 32: very many
+Response 33: almost all
+Response 34: about half of them
+Response 35: about half of them
+Response 36: very many
+Response 37: many
+Response 38: almost all
+Response 39: few
+Response 40: about half of them
+Response 41: I believe the response would be:
+
+(almost) all
+Response 42: very many
+Response 43: (almost) all
+Response 44: very many
+Response 45: (almost) all
+Response 46: (almost) all
+Response 47: almost all
+Response 48: (almost) all
+Response 49: almost all
+Response 50: about half of them
+Response 51: I believe (almost) all participants responded "Yes".
+Response 52: (almost) all
+Response 53: (almost) all
+Response 54: almost all
+Response 55: many
+Response 56: very few
+Response 57: few
+Response 58: (almost) all
+Response 59: very many
+Response 60: (almost) all
+Response 61: Please respond with one of the following options:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+Response 62: very few
+Response 63: (almost) all
+Response 64: about half of them
+Response 65: (almost) all
+Response 66: (almost) all
+Response 67: few
+Response 68: (almost) all
+Response 69: (almost) all
+Response 70: about half of them
+Response 71: (almost) all
+Response 72: about half of them
+Response 73: (almost) all
+Response 74: very many
+Response 75: very many
+Response 76: (almost) all
+Response 77: many
+Response 78: (few)
+Response 79: very many
+Response 80: (almost) all
+Response 81: almost all
+Response 82: very many
+Response 83: few
+Response 84: very many
+Response 85: (almost) all
+Response 86: very many
+Response 87: many
+Response 88: very many
+Response 89: (almost) all
+Response 90: (few)
+Response 91: This has been the question experimental participants have been asked: "Is the following a vehicle: a toy car?"
+Response 92: very many
+Response 93: very many
+Response 94: almost all
+Response 95: (almost) all
+Response 96: about half of them
+Response 97: many
+Response 98: My belief is that the majority of participants would respond with "almost all" or "very many".
+Response 99: very many
+Response 100: few
+Response 101: very many
+Response 102: many
+Response 103: (almost) all
+Response 104: (almost) all
+Response 105: about half of them
+Response 106: very many
+Response 107: about half of them
+Response 108: about half of them
+Response 109: very few
+Response 110: about half of them
+Response 111: (almost) all
+Response 112: (almost) all
+Response 113: (almost) all
+Response 114: very few
+Response 115: about half of them
+Response 116: almost all
+Response 117: about half of them
+Response 118: about half of them
+Response 119: (almost) all
+Response 120: almost all

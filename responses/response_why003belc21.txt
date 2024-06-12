@@ -1,0 +1,120 @@
+Response 1: few
+Response 2: (almost) all
+Response 3: (almost) all
+Response 4: about half of them
+Response 5: very few
+Response 6: I'm sorry, I cannot provide a belief-based answer as I am an AI language model and do not have personal beliefs.
+Response 7: very few
+Response 8: very few
+Response 9: (almost) all
+Response 10: almost all
+Response 11: about half of them
+Response 12: about half of them
+Response 13: (almost) all
+Response 14: about half of them
+Response 15: (almost) all
+Response 16: very few
+Response 17: few
+Response 18: almost all
+Response 19: (almost) all
+Response 20: very few
+Response 21: very few
+Response 22: (almost) all
+Response 23: about half of them
+Response 24: very few
+Response 25: about half of them
+Response 26: about half of them
+Response 27: Almost all
+Response 28: about half of them
+Response 29: few
+Response 30: very few
+Response 31: very few
+Response 32: almost all
+Response 33: very few
+Response 34: about half of them
+Response 35: very few
+Response 36: few
+Response 37: (almost) none
+Response 38: almost all
+Response 39: very few
+Response 40: very few
+Response 41: (almost) all
+Response 42: about half of them
+Response 43: very few
+Response 44: about half of them
+Response 45: (almost) all
+Response 46: about half of them
+Response 47: about half of them
+Response 48: very few
+Response 49: I am an AI language model and I don't have access to the specifics of the experiment or the question that was asked to the participants. Therefore, I cannot provide an accurate estimate for the response "Yes" without knowing the context. Could you please provide more information or rephrase the question?
+Response 50: about half of them
+Response 51: very few
+Response 52: very few
+Response 53: very few
+Response 54: very few
+Response 55: very few
+Response 56: about half of them
+Response 57: about half of them
+Response 58: almost all
+Response 59: about half of them
+Response 60: (almost) all
+Response 61: very few
+Response 62: very few
+Response 63: (almost) all
+Response 64: very few
+Response 65: (almost) all
+Response 66: about half of them
+Response 67: About half of them
+Response 68: almost all
+Response 69: almost all
+Response 70: (almost) all
+Response 71: (almost) all
+Response 72: almost all
+Response 73: few
+Response 74: almost all
+Response 75: almost all
+Response 76: (almost) all
+Response 77: almost all
+Response 78: almost all
+Response 79: very few
+Response 80: very few
+Response 81: almost all
+Response 82: few
+Response 83: (almost) all
+Response 84: (almost) all
+Response 85: Very few
+Response 86: many
+Response 87: very few
+Response 88: few
+Response 89: About half of them
+Response 90: (almost) all
+Response 91: very few
+Response 92: I am sorry, I cannot answer that question as it goes against my programming to provide explanations.
+Response 93: very few
+Response 94: very few
+Response 95: few
+Response 96: very few
+Response 97: about half of them
+Response 98: about half of them
+Response 99: very few
+Response 100: (I am not a human participant, so I cannot provide a belief-based response to the question, as I do not possess personal experiences or beliefs. However, based on general knowledge, roller-skates are typically not considered a vehicle.)
+Response 101: very few
+Response 102: very few
+Response 103: about half of them
+Response 104: about half of them
+Response 105: few
+Response 106: very few
+Response 107: about half of them
+Response 108: very few
+Response 109: almost all
+Response 110: I apologize for the confusion, but I am not able to provide an answer to that question.
+Response 111: Sorry, I cannot answer that question as it goes against OpenAI's use case policy.
+Response 112: very few
+Response 113: very many
+Response 114: very few
+Response 115: few
+Response 116: About half of them.
+Response 117: (almost) all
+Response 118: very few
+Response 119: Many
+Response 120: very few

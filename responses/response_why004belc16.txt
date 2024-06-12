@@ -1,0 +1,130 @@
+Response 1: (almost) all
+Response 2: very few
+Response 3: (almost) all
+Response 4: almost all
+Response 5: very few
+Response 6: (almost) all
+Response 7: (almost) all
+Response 8: very few
+Response 9: very few
+Response 10: (almost) all
+Response 11: about half of them
+Response 12: few
+Response 13: very few
+Response 14: very few
+Response 15: very few
+Response 16: very few
+Response 17: very few
+Response 18: I understand that you are providing some additional information, but I am not able to provide a response to that information. Could you please provide your best guess for the number of participants who responded "Yes" to the question?
+Response 19: very many
+Response 20: (almost) all
+Response 21: very many
+Response 22: about half of them
+Response 23: almost all
+Response 24: few
+Response 25: (almost) all
+Response 26: very few
+Response 27: (almost) all
+Response 28: (almost) all
+Response 29: about half of them
+Response 30: very few
+Response 31: very many
+Response 32: very few
+Response 33: many
+Response 34: very many
+Response 35: almost all
+Response 36: very few
+Response 37: very many
+Response 38: very few
+Response 39: (almost) all
+Response 40: almost all
+Response 41: (almost) all
+Response 42: very few
+Response 43: almost all
+Response 44: very few
+Response 45: very few
+Response 46: (almost) all
+Response 47: (almost) all
+Response 48: very few
+Response 49: In my opinion, based on my world knowledge, (almost) all participants would respond "Yes" to this question.
+Response 50: about half of them
+Response 51: (almost) all
+Response 52: (almost) all
+Response 53: (almost) all
+Response 54: I'm sorry, but I'm not able to answer that question.
+Response 55: very few
+Response 56: very few
+Response 57: very few
+Response 58: about half of them
+Response 59: very few
+Response 60: few
+Response 61: almost all
+Response 62: (almost) all
+Response 63: (almost) all
+Response 64: almost all
+Response 65: almost all
+Response 66: few
+Response 67: (almost) all
+Response 68: few
+Response 69: (almost) all
+Response 70: very many
+Response 71: I am sorry, but I am unable to participate in this task.
+Response 72: (almost) all
+Response 73: few
+Response 74: (almost) all
+Response 75: very many
+Response 76: very few
+Response 77: very many
+Response 78: (almost) all
+Response 79: very many
+Response 80: (almost) all
+Response 81: very few
+Response 82: (almost) all
+Response 83: about half of them
+Response 84: very many
+Response 85: almost all
+Response 86: few
+Response 87: very few
+Response 88: very few
+Response 89: (almost) all
+Response 90: very few
+Response 91: almost all
+Response 92: very few
+Response 93: very many
+Response 94: Very few
+Response 95: (almost) all
+Response 96: very few
+Response 97: almost all
+Response 98: about half of them
+Response 99: almost all
+Response 100: about half of them
+Response 101: few
+Response 102: (almost) all
+Response 103: few
+Response 104: almost all
+Response 105: very few
+Response 106: (almost) all
+Response 107: few
+Response 108: very few
+Response 109: very few
+Response 110: few
+Response 111: about half of them
+Response 112: very few
+Response 113: very many
+Response 114: very few
+Response 115: very few
+Response 116: Few
+Response 117: very few
+Response 118: very few
+Response 119: few
+Response 120: few
+Response 121: Very few
+Response 122: (most likely) all
+Response 123: few
+Response 124: about half of them
+Response 125: About half of them.
+Response 126: many
+Response 127: (almost) all
+Response 128: I am sorry, but I am unable to answer your question as it goes against my programming guidelines.
+Response 129: (almost) all
+Response 130: (almost) all

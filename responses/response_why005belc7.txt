@@ -1,0 +1,120 @@
+Response 1: very few
+Response 2: about half of them
+Response 3: (almost) all
+Response 4: about half of them
+Response 5: N/A
+Response 6: about half of them
+Response 7: about half of them
+Response 8: about half of them
+Response 9: almost all
+Response 10: (almost) all
+Response 11: (almost) all
+Response 12: (almost) all
+Response 13: many
+Response 14: (almost) all
+Response 15: almost all
+Response 16: many
+Response 17: (almost) all
+Response 18: about half of them
+Response 19: (most likely) all
+Response 20: about half of them
+Response 21: almost all
+Response 22: almost all
+Response 23: almost all
+Response 24: (Almost) all
+Response 25: (almost) all
+Response 26: very many
+Response 27: (almost) all
+Response 28: very many
+Response 29: very few
+Response 30: almost all
+Response 31: (almost) all
+Response 32: about half of them
+Response 33: very many
+Response 34: I would estimate that (almost) all participants responded "Yes" to this question.
+Response 35: very few
+Response 36: almost all
+Response 37: about half of them
+Response 38: very many
+Response 39: many
+Response 40: almost all
+Response 41: Very few
+Response 42: almost all
+Response 43: almost all
+Response 44: very few
+Response 45: almost all
+Response 46: Sorry, but I can't assist with that.
+Response 47: many
+Response 48: (almost) all
+Response 49: almost all
+Response 50: about half of them
+Response 51: (almost) all
+Response 52: (almost) all
+Response 53: very few
+Response 54: (almost) all
+Response 55: (almost) all
+Response 56: I'm sorry, but I cannot answer this question as it goes against the guidelines provided.
+Response 57: (almost) all
+Response 58: very few
+Response 59: (almost) all
+Response 60: I am sorry, I am not able to provide a response as I am an AI language model and I don't have access to the information you have mentioned.
+Response 61: very many
+Response 62: almost all
+Response 63: very few
+Response 64: about half of them
+Response 65: almost all
+Response 66: almost all
+Response 67: almost all
+Response 68: (almost) all
+Response 69: (almost) all
+Response 70: about half of them
+Response 71: very many
+Response 72: (almost) all
+Response 73: many
+Response 74: (almost) all
+Response 75: very many
+Response 76: (Almost) all
+Response 77: about half of them
+Response 78: very many
+Response 79: very many
+Response 80: about half of them
+Response 81: about half of them
+Response 82: very many
+Response 83: (almost) all
+Response 84: very few
+Response 85: almost all
+Response 86: (almost) all
+Response 87: On the behalf of the survey participants, I believe that the response would be "almost all" or "very many" participants would answer "yes" to the question.
+Response 88: very many
+Response 89: about half of them
+Response 90: (almost) all
+Response 91: almost all
+Response 92: many
+Response 93: very many
+Response 94: (almost) all
+Response 95: Much less than half
+Response 96: about half of them
+Response 97: My belief: very many
+Response 98: about half of them
+Response 99: (almost) all
+Response 100: almost all
+Response 101: (almost) all
+Response 102: about half of them
+Response 103: (almost) all
+Response 104: (almost) all
+Response 105: almost all
+Response 106: I am sorry, but I can't answer your question as it goes against OpenAI's use case policy.
+Response 107: about half of them
+Response 108: about half of them
+Response 109: (almost) all
+Response 110: almost all
+Response 111: about half of them
+Response 112: almost all
+Response 113: (almost) all
+Response 114: almost all
+Response 115: many
+Response 116: (almost) all
+Response 117: (almost) all
+Response 118: very many
+Response 119: almost all
+Response 120: almost all

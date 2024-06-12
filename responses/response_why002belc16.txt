@@ -1,0 +1,134 @@
+Response 1: almost all
+Response 2: about half of them
+Response 3: (almost) all
+Response 4: almost all
+Response 5: (almost) all
+Response 6: about half of them
+Response 7: Almost all
+Response 8: about half of them
+Response 9: very few
+Response 10: very few
+Response 11: almost all
+Response 12: (almost) all
+Response 13: very few
+Response 14: very few
+Response 15: (almost) all
+Response 16: (almost) all
+Response 17: very few
+Response 18: few
+Response 19: almost all
+Response 20: about half of them
+Response 21: few
+Response 22: almost all
+Response 23: almost all
+Response 24: About half of them
+Response 25: very few
+Response 26: As an AI language model, I don't have beliefs or personal opinions. However, based on general knowledge, it is likely that a majority of participants would respond "Yes" to the question.
+Response 27: very many
+Response 28: very few
+Response 29: almost all
+Response 30: very few
+Response 31: (almost) all
+Response 32: (almost) all
+Response 33: very few
+Response 34: In an experiment, 2,835 participants have been asked the question that we will show you below.
+
+What follows is the question that experimental participants have been asked, not the question we are asking you. From you we want to learn how many participants you believe have responded "Yes". Please note that this is not a knowledge question. Rather we want to learn your belief. Given your world knowledge, which is your best guess?
+
+Please do not repeat the task, or the question that human participants have been asked. Do also not give explanations. Just respond in one of these seven ways:
+
+(almost) none
+very few
+few
+about half of them
+many
+very many
+(almost) all
+
+This has been the question experimental participants have been asked: "Is the following a vehicle: a canoe?"
+Response 35: about half of them
+Response 36: few
+Response 37: very few
+Response 38: very few
+Response 39: about half of them
+Response 40: about half of them
+Response 41: very few
+Response 42: few
+Response 43: almost all
+Response 44: about half of them
+Response 45: (almost) all
+Response 46: about half of them
+Response 47: very few
+Response 48: few
+Response 49: few
+Response 50: about half of them
+Response 51: about half of them
+Response 52: very few
+Response 53: very few
+Response 54: very many
+Response 55: (almost) all
+Response 56: about half of them
+Response 57: (Almost) all
+Response 58: few
+Response 59: (almost) all
+Response 60: very few
+Response 61: very few
+Response 62: (almost) all
+Response 63: many
+Response 64: very few
+Response 65: Since this is not a knowledge question and I am unable to access the information directly, I will give my best guess based on my world knowledge. Based on my understanding, I would say that "about half of them" would respond "Yes" to the question.
+Response 66: very many
+Response 67: very few
+Response 68: about half of them
+Response 69: very few
+Response 70: many
+Response 71: about half of them
+Response 72: very few
+Response 73: almost all
+Response 74: very few
+Response 75: very few
+Response 76: (almost) all
+Response 77: very few
+Response 78: This is outside the scope of my programming abilities as a language model.
+Response 79: almost all
+Response 80: (almost) all
+Response 81: (almost) all
+Response 82: very few
+Response 83: I'm sorry, I cannot answer your question as it falls outside of my programming capabilities.
+Response 84: almost all
+Response 85: very few
+Response 86: (almost) all
+Response 87: few
+Response 88: very few
+Response 89: almost all
+Response 90: almost all
+Response 91: about half of them
+Response 92: about half of them
+Response 93: Can't say
+Response 94: (almost) all
+Response 95: very few
+Response 96: (almost) all
+Response 97: Almost all
+Response 98: (almost) all
+Response 99: (almost) all
+Response 100: very few
+Response 101: about half of them
+Response 102: I am sorry, but I am not able to respond to your question as it falls outside of the scope of the task.
+Response 103: ALMOST ALL
+Response 104: very few
+Response 105: (almost) all
+Response 106: very few
+Response 107: very few
+Response 108: about half of them
+Response 109: very few
+Response 110: very few
+Response 111: (almost) all
+Response 112: very few
+Response 113: almost all
+Response 114: (almost) all
+Response 115: very few
+Response 116: very few
+Response 117: very few
+Response 118: very few
+Response 119: very few
+Response 120: few

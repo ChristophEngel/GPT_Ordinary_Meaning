@@ -1,0 +1,105 @@
+Response 1: (almost) all
+Response 2: about half of them
+Response 3: few
+Response 4: (almost) all
+Response 5: almost all
+Response 6: (almost) all
+Response 7: From the provided question, "Is the following a vehicle: a carriage?", I would estimate that the response "almost all" participants would answer "Yes".
+Response 8: (almost) all
+Response 9: (almost) all
+Response 10: few
+Response 11: about half of them
+Response 12: very few
+Response 13: many
+Response 14: about half of them
+Response 15: (almost) all
+Response 16: about half of them
+Response 17: (almost) all
+Response 18: few
+Response 19: very few
+Response 20: (almost) none
+Response 21: few
+Response 22: (almost) all
+Response 23: few
+Response 24: about half of them
+Response 25: few
+Response 26: almost none
+Response 27: (almost) all
+Response 28: (almost) all
+Response 29: about half of them
+Response 30: about half of them
+Response 31: (almost) all
+Response 32: few
+Response 33: (almost) all
+Response 34: (almost) all
+Response 35: about half of them
+Response 36: few
+Response 37: about half of them
+Response 38: (almost) none
+Response 39: few
+Response 40: few
+Response 41: few
+Response 42: (almost) all
+Response 43: about half of them
+Response 44: few
+Response 45: about half of them
+Response 46: almost all
+Response 47: few
+Response 48: (almost) all
+Response 49: very few
+Response 50: few
+Response 51: about half of them
+Response 52: almost all
+Response 53: about half of them
+Response 54: few
+Response 55: (almost) all
+Response 56: about half of them
+Response 57: very few
+Response 58: few
+Response 59: (almost) all
+Response 60: (almost) all
+Response 61: very few
+Response 62: many
+Response 63: (almost) all
+Response 64: almost all
+Response 65: almost all
+Response 66: (almost) all
+Response 67: Almost all
+Response 68: (almost) all
+Response 69: few
+Response 70: few
+Response 71: almost all
+Response 72: about half of them
+Response 73: many
+Response 74: few
+Response 75: few
+Response 76: about half of them
+Response 77: (almost) all
+Response 78: almost all
+Response 79: about half of them
+Response 80: few
+Response 81: about half of them
+Response 82: few
+Response 83: (Almost) all
+Response 84: very few
+Response 85: about half of them
+Response 86: about half of them
+Response 87: many
+Response 88: about half of them
+Response 89: few
+Response 90: about half of them
+Response 91: (almost) all
+Response 92: almost all
+Response 93: almost all
+Response 94: (almost) all
+Response 95: (almost) all
+Response 96: (almost) all
+Response 97: (few)
+Response 98: (almost) all
+Response 99: Few
+Response 100: few
+Response 101: many
+Response 102: (Almost) all
+Response 103: (almost) all
+Response 104: about half of them
+Response 105: almost all

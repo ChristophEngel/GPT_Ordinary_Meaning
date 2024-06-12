@@ -1,0 +1,110 @@
+Response 1: (almost) none
+Response 2: (almost) none
+Response 3: (almost) none
+Response 4: very few
+Response 5: (almost) none
+Response 6: (almost) none
+Response 7: almost none
+Response 8: (a) almost none
+Response 9: about half of them
+Response 10: about half of them
+Response 11: about half of them
+Response 12: very few
+Response 13: (almost) none
+Response 14: (almost) none
+Response 15: Almost none
+Response 16: (almost) none
+Response 17: (unable to answer)
+Response 18: few
+Response 19: few
+Response 20: We cannot provide a response to this question as it is unrelated to the original scenario provided. If you have a different question related to the scenario, please let us know.
+Response 21: about half of them
+Response 22: almost none
+Response 23: very few
+Response 24: almost none
+Response 25: (almost) none
+Response 26: about half of them
+Response 27: (almost) none
+Response 28: (almost) all
+Response 29: (almost) none
+Response 30: about half of them
+Response 31: very few
+Response 32: very few
+Response 33: (almost) none
+Response 34: (almost) none
+Response 35: about half of them
+Response 36: very few
+Response 37: almost none
+Response 38: almost none
+Response 39: almost none
+Response 40: (almost) none
+Response 41: (almost) none
+Response 42: (almost) none
+Response 43: almost none
+Response 44: (almost) none
+Response 45: The answer to the question is "no".
+Response 46: about half of them
+Response 47: (almost) none
+Response 48: very few
+Response 49: (almost) none
+Response 50: (almost) none
+Response 51: about half of them
+Response 52: about half of them
+Response 53: almo
+Response 54: about half of them
+Response 55: (almost) none
+Response 56: (almost) none
+Response 57: almost none
+Response 58: (almost) none
+Response 59: (a) very few
+Response 60: very few
+Response 61: (almost) none
+Response 62: (almost) none
+Response 63: (almost) none
+Response 64: about half of them
+Response 65: (almost) none
+Response 66: almost none
+Response 67: almost none
+Response 68: almost none
+Response 69: (almost) none
+Response 70: (few)
+Response 71: (almost) none
+Response 72: few
+Response 73: (almost) none
+Response 74: (almost) none
+Response 75: (almost) none
+Response 76: most
+Response 77: few
+Response 78: (almost) none
+Response 79: (almost) none
+Response 80: (almost) none
+Response 81: (almost) none
+Response 82: (almost) none
+Response 83: many
+Response 84: (almost) none
+Response 85: Yes
+Response 86: very few
+Response 87: It is difficult to determine the exact number of participants who would respond "Yes" to this question without conducting the experiment. However, based on common knowledge, it is likely that only (almost) none or very few participants would consider a zip line as a vehicle.
+Response 88: almost none
+Response 89: (almost) none
+Response 90: many
+Response 91: many
+Response 92: few
+Response 93: about half of them
+Response 94: (almost) none
+Response 95: about half of them
+Response 96: (almost) none
+Response 97: (almost) none
+Response 98: few
+Response 99: almost none
+Response 100: few
+Response 101: The question does not provide enough information to determine if a zip line is considered a vehicle or not.
+Response 102: almost none
+Response 103: (almost) none
+Response 104: almost none
+Response 105: almost none
+Response 106: about half of them
+Response 107: (almost) none
+Response 108: (almost) none
+Response 109: (almost) none
+Response 110: (almost) none

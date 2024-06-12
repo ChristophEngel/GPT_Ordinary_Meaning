@@ -1,0 +1,110 @@
+Response 1: very few
+Response 2: about half of them
+Response 3: about half of them
+Response 4: (almost) none
+Response 5: very few
+Response 6: few
+Response 7: about half of them
+Response 8: very few
+Response 9: about half of them
+Response 10: (almost) none
+Response 11: very few
+Response 12: very few
+Response 13: about half of them
+Response 14: very few
+Response 15: very few
+Response 16: very few
+Response 17: very few
+Response 18: few
+Response 19: few
+Response 20: very few
+Response 21: almost none
+Response 22: few
+Response 23: (almost) none
+Response 24: Few
+Response 25: very few
+Response 26: (almost) none
+Response 27: (almost) none
+Response 28: (almost) none
+Response 29: very few
+Response 30: few
+Response 31: few
+Response 32: few
+Response 33: about half of them
+Response 34: few
+Response 35: very few
+Response 36: few
+Response 37: very few
+Response 38: very few
+Response 39: very few
+Response 40: very few
+Response 41: very few
+Response 42: very few
+Response 43: very few
+Response 44: very few
+Response 45: (almost) none
+Response 46: few
+Response 47: very few
+Response 48: (almost) none
+Response 49: Very few
+Response 50: (almost) none
+Response 51: very few
+Response 52: very few
+Response 53: very few
+Response 54: very few
+Response 55: about half of them
+Response 56: (almost) none
+Response 57: (almost) none
+Response 58: few
+Response 59: (almost) none
+Response 60: about half of them
+Response 61: (almost) none
+Response 62: very few
+Response 63: very few
+Response 64: about half of them
+Response 65: (almost) none
+Response 66: Given the information provided, I would guess that the majority of participants in the 1950s would respond "very few" or "few" to the question, as a zip line is not typically considered a vehicle in the traditional sense.
+Response 67: very few
+Response 68: few
+Response 69: very few
+Response 70: very few
+Response 71: few
+Response 72: very few
+Response 73: very few
+Response 74: about half of them
+Response 75: almost none
+Response 76: few
+Response 77: about half of them
+Response 78: almost none
+Response 79: few
+Response 80: very few
+Response 81: (almost) none
+Response 82: few
+Response 83: very few
+Response 84: very few
+Response 85: (mostly) none
+Response 86: very few
+Response 87: few
+Response 88: Very few
+Response 89: (almost) none
+Response 90: about half of them
+Response 91: almost none
+Response 92: very few
+Response 93: very few
+Response 94: very few
+Response 95: very few
+Response 96: few
+Response 97: very few
+Response 98: very few
+Response 99: almost none
+Response 100: (almost) none
+Response 101: (almost) none
+Response 102: about half of them
+Response 103: very few
+Response 104: very few
+Response 105: (Almost) none
+Response 106: very few
+Response 107: very few
+Response 108: very few
+Response 109: (almost) none
+Response 110: very few
